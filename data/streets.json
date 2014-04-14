@@ -1,0 +1,28 @@
+{
+    "data": {
+        "418 " : {
+            "name"      : "Av. Américo Buaiz",
+            "type"      : "avenue",
+            "last_updated" : "2013-12-28",
+            "lines_available" : ["031", "031A", "073N", "073S", "074", "103", "105", "112", "201", "202", "203", "204", "210", "211", "212", "213", "214", "290", "331", "332"]
+        },
+        "0123" : {
+            "name"      : "Av. Adalberto Simão Nader",
+            "type"      : "avenue",
+            "last_updated" : "2013-12-28",
+            "lines_available" : ["112", "121", "160", "161", "163", "164", "210", "212", "214", "241", "302E", "303"]
+        },
+        "0234" : {
+            "name"      : "Rua da Coragem",
+            "type"      : "street",
+            "last_updated" : "2013-12-28",
+            "lines_available" : ["0071", "0072", "0211", "302E", "0310", "0331", "333", "333E"]
+        },
+        "0239" : {
+            "name"      : "R. Carlos Martins",
+            "type"      : "street",
+            "last_updated" : "2013-12-28",
+            "lines_available" : ["0103", "0110", "0121", "0164", "0211", "0290", "0310"]
+        ]
+    }
+}

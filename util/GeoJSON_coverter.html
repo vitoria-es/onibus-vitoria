@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Conversor JSON para GeoJSON - Dados de Ônibus de Vitória</title>
+<style>
+body {
+  padding: 0.625em;
+  background: #fff;
+  font-family: sans-serif;
+}
+
+.code {
+  width: 400px;
+  height: 300px;
+  font-family: Consolas, Inconsolata, monospace;
+  padding: 0.5em;
+}
+</style>
+</head>
+<body>
+  <h2>Conversor JSON para GeoJSON</h2>
+  <p>Cole o <a href="http://rast.vitoria.es.gov.br/pontovitoria/utilidades/retornaPontos">JSON dos pontos de ônibus</a> gerado pelo <strong>Ponto Vitória</strong> para convertê-lo para o padrão <a href="http://geojson.org/">GeoJSON</a>.</p>
+  <textarea class="code" id="code"></textarea>
+  <p><button id="convert">Converter</button><p>
+<script src="http://code.jquery.com/jquery.min.js"></script>
+<script>
+(function($) {
+  var $code = $('#code'),
+      $convert = $('#convert');
+
+  var convertToGeoJSON = function(obj) {
+    var ponto, pontos = {
+      "type": "FeatureCollection",
+      "features": []
+    };
+    
+    $.each(obj, function(id, attr) {
+      ponto = {
+        "type": "Feature",
+        "id": id,
+        "properties": {
+          "numero": attr[0],
+          "bairro": attr[1],
+          "endereco": attr[2],
+          "referencia": attr[3]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [attr[4], attr[5]]
+        }
+      };
+      pontos.features.push(ponto);
+    });
+    
+    return pontos;
+  };
+
+  $convert.on('click', function(e) {
+    if ($code.val().length !== 0) {
+      var input_code = $code.val(),
+          geojson = convertToGeoJSON(JSON.parse(input_code)),
+          output_code = JSON.stringify(geojson, null, '  ');
+      $code.val(output_code);
+    }
+  });
+})(jQuery);
+</script>
+</body>
+</html>

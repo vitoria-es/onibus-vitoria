@@ -1,0 +1,173 @@
+{
+	"line": "164 - Jardim Camburi/Forte São João",
+	"bound_to": "Forte São João",
+	"points": [
+	{
+		"type": "poi",
+		"label": "Disk Pizza Paulista",
+		"category": "Pizzaria",
+		"coords": {
+			"lat": -20.25964,
+			"lon": -40.26359
+		}
+	},
+	{
+		"type": "poi",
+		"label": "EPA",
+		"category": "Supermercado",
+		"coords": {
+			"lat": -20.25680,
+			"lon": -40.26382
+		}
+	},
+	{
+		"type": "turn",
+		"dir": "right",
+		"direction": "Curva à direta",
+		"address": "Av. José Rato",
+		"coords": {
+			"lat": -20.25384,
+			"lon": -40.26337
+		}
+	},
+	{
+		"type": "street-view",
+		"coords": {
+			"lat": -20.2483913,
+			"lon": -40.2661781
+		},
+		"heading": 340,
+		"fov": 80
+	},
+	{
+		"type": "bus-stop",
+		"number": 1002,
+		"address": "Av. José Rato",
+		"reference": "Algum lugar",
+		"hood": "Bairro de Fátima",
+		"coords": {
+			"lat": -20.25701,
+			"lon": -40.26403
+		}
+	},
+	{
+		"type": "poi",
+		"label": "Hoffman Telhados",
+		"category": "Loja",
+		"coords": {
+			"lat": -20.243616,
+			"lon": -40.268583
+		}
+	},
+	{
+		"type": "poi",
+		"label": "Posto Texaco",
+		"category": "Posto de Gasolina",
+		"coords": {
+			"lat": -20.240858,
+			"lon": -40.272639
+		}
+	},
+	{
+		"type": "turn",
+		"dir": "left",
+		"direction": "Curva sinuosa à esquerda",
+		"address": "Av. José Rato",
+		"coords": {
+			"lat": -20.238865,
+			"lon": -40.271695
+		}
+	},
+	{
+		"type": "poi",
+		"label": "Terminal Carapina",
+		"category": "Ponto de ônibus",
+		"coords": {
+			"lat": -20.230429,
+			"lon": -40.269463
+		}
+	},
+	{
+		"type": "street-view",
+		"coords": {
+			"lat": -20.227731,
+			"lon": -40.269828
+		},
+		"heading": 20,
+		"fov": 80
+	},
+	{
+		"type": "poi",
+		"label": "Posto BR",
+		"category": "Posto de Gasolina",
+		"coords": {
+			"lat": -20.22461,
+			"lon": -40.266459
+		}
+	},
+	{
+		"type": "street-view",
+		"coords": {
+			"lat": -20.22461,
+			"lon": -40.266459
+		},
+		"heading": 20,
+		"fov": 80
+	},
+	{
+		"type": "poi",
+		"label": "Fabavi",
+		"category": "Faculdade",
+		"coords": {
+			"lat": -20.20969,
+			"lon": -40.262403
+		}
+	},
+	{
+		"type": "poi",
+		"label": "Residencial Marabás",
+		"category": "Bairro",
+		"coords": {
+			"lat": -20.202883,
+			"lon": -40.258949
+		}
+	},
+	{
+		"type": "bus-stop",
+		"number": 1002,
+		"address": "Av. Norte Sul",
+		"reference": "Próximo a Av. Central",
+		"hood": "Laranjeiras",
+		"coords": {
+			"lat": -20.198755,
+			"lon": -40.256159
+		}
+	},
+	{
+		"type": "poi",
+		"label": "Shopping Laranjeiras",
+		"category": "Shopping Center",
+		"coords": {
+			"lat": -20.196661,
+			"lon": -40.255022
+		}
+	},
+	{
+		"type": "street-view",
+		"coords": {
+			"lat": -20.196661,
+			"lon": -40.255022
+		},
+		"heading": 30,
+		"fov": 80
+	},
+	{
+		"type": "poi",
+		"label": "Terminal Laranjeiras",
+		"category": "Ponto de ônibus",
+		"coords": {
+			"lat": -20.194184,
+			"lon": -40.254271
+		}
+	}
+]}
