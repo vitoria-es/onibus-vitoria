@@ -896,47 +896,47 @@
             "lines" : ["0202"]
         },
         "658 " : {
-            "name" : "R. da Constituinte",
+            "name" : "Rua da Constituinte",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
         "0234" : {
-            "name" : "R. da Coragem",
+            "name" : "Rua da Coragem",
             "type" : "street",
             "lines" : ["0071","0072","0211","0310","0331","0333","302E","333E"]
         },
         "0255" : {
-            "name" : "R. da Creche",
+            "name" : "Rua da Creche",
             "type" : "street",
             "lines" : []
         },
         "385 " : {
-            "name" : "R. da Estiva",
+            "name" : "Rua da Estiva",
             "type" : "street",
             "lines" : []
         },
         "800 " : {
-            "name" : "R. da Galeria",
+            "name" : "Rua da Galeria",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
         "0278" : {
-            "name" : "R. da Grécia",
+            "name" : "Rua da Grécia",
             "type" : "street",
             "lines" : []
         },
         "0161" : {
-            "name" : "R. da Liberdade",
+            "name" : "Rua da Liberdade",
             "type" : "street",
             "lines" : []
         },
         "0317" : {
-            "name" : "R. da Luta",
+            "name" : "Rua da Luta",
             "type" : "street",
             "lines" : ["0175"]
         },
         "0284" : {
-            "name" : "R. da Saudade",
+            "name" : "Rua da Saudade",
             "type" : "street",
             "lines" : []
         },
@@ -1016,27 +1016,27 @@
             "lines" : ["0125","0202"]
         },
         "539 " : {
-            "name" : "R. do Cajú",
+            "name" : "Rua do Cajú",
             "type" : "street",
             "lines" : ["0010","0211","0303"]
         },
         "0345" : {
-            "name" : "R. do Canal",
+            "name" : "Rua do Canal",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
         "0248" : {
-            "name" : "R. do Canavial",
+            "name" : "Rua do Canavial",
             "type" : "street",
             "lines" : []
         },
         "0159" : {
-            "name" : "R. do Coqueiro",
+            "name" : "Rua do Coqueiro",
             "type" : "street",
             "lines" : []
         },
         "676 " : {
-            "name" : "R. do Luar",
+            "name" : "Rua do Luar",
             "type" : "street",
             "lines" : ["0151","0332"]
         },
@@ -1061,7 +1061,7 @@
             "lines" : ["0074","0151","0160","0161","0163","0164","0184","0241","0302","0303","0310","0331","0332","0333","302E","333E"]
         },
         "0027" : {
-            "name" : "R. dos Canoeiros",
+            "name" : "Rua dos Canoeiros",
             "type" : "street",
             "lines" : []
         },
@@ -1116,7 +1116,7 @@
             "lines" : ["0103","0105","0202","0213"]
         },
         "0302" : {
-            "name" : "R. Doze ",
+            "name" : "R. Doze",
             "type" : "street",
             "lines" : []
         },
