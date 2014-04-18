@@ -1,382 +1,382 @@
 {
     "data" : {
         "0123" : {
-            "name" : "Av Adalberto SimÃo Nader",
+            "name" : "Av. Adalberto Simão Nader",
             "type" : "avenue",
             "lines" : ["0112","0121","0160","0161","0163","0210","0212","0214","0241","0303","302E"]
         },
         "718 " : {
-            "name" : "Av Adelpho Poli Monjardim",
+            "name" : "Av. Adelpho Poli Monjardim",
             "type" : "avenue",
             "lines" : ["0181"]
         },
         "0180" : {
-            "name" : "Av Alberto Torres",
+            "name" : "Av. Alberto Torres",
             "type" : "avenue",
             "lines" : ["0333","333E"]
         },
         "0134" : {
-            "name" : "Av Alexandre Buaiz",
+            "name" : "Av. Alexandre Buaiz",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0072","0101","0102","0103","0104","0110","0112","0121","0122","0123","0124","0130","0151","0160","0161","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "0200" : {
-            "name" : "Av Alziro Zarur",
+            "name" : "Av. Alziro Zarur",
             "type" : "avenue",
             "lines" : ["0110","0124","0164","0184","0214","0302","0303","0310","302E"]
         },
         "418 " : {
-            "name" : "Av AmÉrico Buaiz",
+            "name" : "Av. Américo Buaiz",
             "type" : "avenue",
             "lines" : ["0031","0074","0103","0105","0112","0201","0202","0203","0204","0210","0211","0212","0213","0214","0290","031A","0331","0332","073N","073S"]
         },
         "0208" : {
-            "name" : "Av AnÍsio Fernandes Coelho",
+            "name" : "Av. Anísio Fernandes Coelho",
             "type" : "avenue",
             "lines" : ["0110","0124","0130","0164","0184","0213","0214","0290","0302","0303","0310","302E"]
         },
         "652 " : {
-            "name" : "Av AntÔnio Borges",
+            "name" : "Av. Antônio Borges",
             "type" : "avenue",
             "lines" : ["0123"]
         },
         "2425" : {
-            "name" : "Av Armando Duarte Rabelo",
+            "name" : "Av. Armando Duarte Rabelo",
             "type" : "avenue",
             "lines" : ["0121","0164","0310"]
         },
         "0318" : {
-            "name" : "Av Brasil",
+            "name" : "Av. Brasil",
             "type" : "avenue",
             "lines" : ["0175","0303","0332"]
         },
         "0361" : {
-            "name" : "Av CapitÃo JoÃo BrandÃo",
+            "name" : "Av. Capitão João Brandão",
             "type" : "avenue",
             "lines" : ["0103","0105","0203","0213","0332"]
         },
         "814 " : {
-            "name" : "Av Carlos Gomes De SÁ",
+            "name" : "Av. Carlos Gomes de Sá",
             "type" : "avenue",
             "lines" : ["0123"]
         },
         "0048" : {
-            "name" : "Av Carlos Moreira Lima",
+            "name" : "Av. Carlos Moreira Lima",
             "type" : "avenue",
             "lines" : ["0102","073N"]
         },
         "0197" : {
-            "name" : "Av Cezar Hilal",
+            "name" : "Av. Cezar Hilal",
             "type" : "avenue",
             "lines" : ["0101","0102","0103","0105","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0201","0202","0203","0204","0213","0214","0331","0333","333E"]
         },
         "0145" : {
-            "name" : "Av Cleto Nunes",
+            "name" : "Av. Cleto Nunes",
             "type" : "avenue",
             "lines" : ["0010","0051","0052","0071","0110","0124","0130","0160","0161","0164","0171","0172","0173","0175","0184","0202","0204","0210","0211","0212","0213","0370"]
         },
         "0253" : {
-            "name" : "Av ComissÁrio OtÁvio Queiroz",
+            "name" : "Av. Comissário Otávio Queiroz",
             "type" : "avenue",
             "lines" : []
         },
         "711 " : {
-            "name" : "Av Constantino David Teixeira",
+            "name" : "Av. Constantino David Teixeira",
             "type" : "avenue",
             "lines" : ["0213"]
         },
         "0250" : {
-            "name" : "Av Construtor David Teixeira",
+            "name" : "Av. Construtor David Teixeira",
             "type" : "avenue",
             "lines" : []
         },
         "387 " : {
-            "name" : "Av Coronel Jose Martins De Figueiredo",
+            "name" : "Av. Coronel José Martins de Figueiredo",
             "type" : "avenue",
             "lines" : ["0125","0181","073N","073S"]
         },
         "0238" : {
-            "name" : "Av Dante Michelini",
+            "name" : "Av. Dante Michelini",
             "type" : "avenue",
             "lines" : ["0103","0110","0111","0112","0121","0160","0161","0164","0210","0211","0212","0213","0241","0290","0310"]
         },
         "0100" : {
-            "name" : "Av DÁrio LourenÇo De Souza",
+            "name" : "Av. Dário Lourenço de Souza",
             "type" : "avenue",
             "lines" : ["0051","0072","0103","0121","0122","0124","0130","0151","0161","0164","0181","0201","0204","0211","0212","0213","0241","031A","0370"]
         },
         "0172" : {
-            "name" : "Av Desembargador Santos Neves",
+            "name" : "Av. Desembargador Santos Neves",
             "type" : "avenue",
             "lines" : ["0031","0074","0101","0103","0105","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0201","0202","0203","0204","0213","0214","031A","0331","0332","0333","073N","073S","333E"]
         },
         "0245" : {
-            "name" : "Av Dos ExpedicionÁrios",
+            "name" : "Av. dos Expedicionários",
             "type" : "avenue",
             "lines" : ["0103","0110","0111","0121","0160","0161","0164","0211","0241","0290","0310"]
         },
         "0147" : {
-            "name" : "Av Duarte Lemos",
+            "name" : "Av. Duarte Lemos",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0071","0101","0102","0103","0112","0121","0122","0123","0124","0130","0151","0160","0161","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "0135" : {
-            "name" : "Av Elias  Miguel",
+            "name" : "Av. Elias Miguel",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0072","0101","0102","0103","0104","0110","0112","0121","0122","0123","0124","0130","0151","0160","0161","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "693 " : {
-            "name" : "Av Engenheiro Charles Bitran",
+            "name" : "Av. Engenheiro Charles Bitran",
             "type" : "avenue",
             "lines" : ["0103","0121","0164"]
         },
         "694 " : {
-            "name" : "Av EugÊnio Pacheco De Queiroz",
+            "name" : "Av. Eugênio Pacheco de Queiroz",
             "type" : "avenue",
             "lines" : ["0103","0121","0164"]
         },
         "0198" : {
-            "name" : "Av Fernando Ferrari",
+            "name" : "Av. Fernando Ferrari",
             "type" : "avenue",
             "lines" : ["0074","0110","0112","0121","0122","0123","0124","0130","0160","0161","0163","0164","0184","0212","0214","0241","0302","0303","0310","0331","0332","0333","302E"]
         },
         "0204" : {
-            "name" : "Av Francisco Generoso Da Fonseca",
+            "name" : "Av. Francisco Generoso da Fonseca",
             "type" : "avenue",
             "lines" : ["0124","0184","0213","0214","0290","0302","0310","302E"]
         },
         "0107" : {
-            "name" : "Av GetÚlio Vargas",
+            "name" : "Av. Getúlio Vargas",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0072","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0124","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0203","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "0150" : {
-            "name" : "Av Governador Bley",
+            "name" : "Av. Governador Bley",
             "type" : "avenue",
             "lines" : ["0010","0051","0072","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0124","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0182","0184"]
         },
         "696 " : {
-            "name" : "Av Governador Eurico Rezende",
+            "name" : "Av. Governador Eurico Rezende",
             "type" : "avenue",
             "lines" : ["0103","0121","0164"]
         },
         "0144" : {
-            "name" : "Av Governador JosÉ Sette",
+            "name" : "Av. Governador José Sette",
             "type" : "avenue",
             "lines" : ["0031","0051","0201","0210","0211","0213","031A"]
         },
         "0151" : {
-            "name" : "Av Guilherme Bassini",
+            "name" : "Av. Guilherme Bassini",
             "type" : "avenue",
             "lines" : ["0071","0072","0310","0331","302E"]
         },
         "0201" : {
-            "name" : "Av Hugo Viola",
+            "name" : "Av. Hugo Viola",
             "type" : "avenue",
             "lines" : ["0110","0124","0164","0184","0214","0302","0303","0310","302E"]
         },
         "692 " : {
-            "name" : "Av Isaac Lopes De Rubim",
+            "name" : "Av. Isaac Lopes de Rubim",
             "type" : "avenue",
             "lines" : ["0103","0121","0164"]
         },
         "333 " : {
-            "name" : "Av Jair Etienne Dessaune",
+            "name" : "Av. Jair Etienne Dessaune",
             "type" : "avenue",
             "lines" : ["0214"]
         },
         "0105" : {
-            "name" : "Av JerÔnimo Monteiro",
+            "name" : "Av. Jerônimo Monteiro",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0071","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0181","0182","0184","0201","0203","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "0289" : {
-            "name" : "Av JerÔnimo Vervloet",
+            "name" : "Av. Jerônimo Vervloet",
             "type" : "avenue",
             "lines" : ["0112","0122","0163","0210","0212","0214","0303"]
         },
         "659 " : {
-            "name" : "Av JoÃo Santos Filho",
+            "name" : "Av. João Santos Filho",
             "type" : "avenue",
             "lines" : ["0102"]
         },
         "909 " : {
-            "name" : "Av Jones Santos Neves",
+            "name" : "Av. Jones Santos Neves",
             "type" : "avenue",
             "lines" : []
         },
         "614 " : {
-            "name" : "Av JosÉ Cassiano Dos Santos",
+            "name" : "Av. José Cassiano dos Santos",
             "type" : "avenue",
             "lines" : ["0161"]
         },
         "656 " : {
-            "name" : "Av JosÉ Miranda Machado",
+            "name" : "Av. José Miranda Machado",
             "type" : "avenue",
             "lines" : ["0105","0201","0332"]
         },
         "680 " : {
-            "name" : "Av JosÉ Neves Cyprestes",
+            "name" : "Av. José Neves Cyprestes",
             "type" : "avenue",
             "lines" : ["0214"]
         },
         "0054" : {
-            "name" : "Av Joubert De Barros",
+            "name" : "Av. Joubert de Barros",
             "type" : "avenue",
             "lines" : ["0102","0214","073N"]
         },
         "0138" : {
-            "name" : "Av LeitÃo Da Silva",
+            "name" : "Av. Leitão da Silva",
             "type" : "avenue",
             "lines" : ["0051","0052","0125","0151","0172","0201","0202","0203","0213","0241","0331","0333","333E"]
         },
         "0273" : {
-            "name" : "Av Manoel Marques",
+            "name" : "Av. Manoel Marques",
             "type" : "avenue",
             "lines" : ["0074","0173"]
         },
         "661 " : {
-            "name" : "Av Manoel Nunes Do Amaral Pereira",
+            "name" : "Av. Manoel Nunes do Amaral Pereira",
             "type" : "avenue",
             "lines" : ["0103","0110","0111","0121","0160","0161","0164","0211","0241","0290","0310"]
         },
         "0146" : {
-            "name" : "Av Marcos De Azevedo",
+            "name" : "Av. Marcos de Azevedo",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0071","0102","0104","0110","0112","0121","0122","0123","0124","0130","0151","0160","0161","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0204","0210","0211","0212","0213","0241","031A","0370"]
         },
         "0137" : {
-            "name" : "Av Marechal Campos",
+            "name" : "Av. Marechal Campos",
             "type" : "avenue",
             "lines" : ["0051","0052","0071","0072","0074","0104","0130","0164","0181","0182","0184","0204","073N","073S"]
         },
         "0142" : {
-            "name" : "Av Marechal Mascarenhas De Moraes",
+            "name" : "Av. Marechal Mascarenhas de Moraes",
             "type" : "avenue",
             "lines" : ["0031","0051","0052","0074","0102","0201","0202","0203","0204","0210","0211","0212","0213","0214","0241","0290","031A","0333","0370","073N","073S","333E"]
         },
         "0160" : {
-            "name" : "Av MaruÍpe",
+            "name" : "Av. Maruípe",
             "type" : "avenue",
             "lines" : ["0071","0072","0074","0125","0130","0151","0160","0161","0163","0164","0171","0172","0175","0181","0184","0241","0302","0303","0310","0331","0332","0333","073N","073S","302E","333E"]
         },
         "662 " : {
-            "name" : "Av Munir Hilal",
+            "name" : "Av. Munir Hilal",
             "type" : "avenue",
             "lines" : ["0110","0111","0121","0160","0161","0164","0211","0241","0290","0310"]
         },
         "0216" : {
-            "name" : "Av Nair Azevedo Silva",
+            "name" : "Av. Nair Azevedo Silva",
             "type" : "avenue",
             "lines" : ["0010","0031","0051","0052","0072","0101","0102","0103","0104","0110","0112","0121","0122","0123","0124","0130","0151","0160","0161","0164","0171","0172","0173","0175","0181","0182","0184","0201","0202","0204","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "0170" : {
-            "name" : "Av Nossa Senhora Da Penha",
+            "name" : "Av. Nossa Senhora da Penha",
             "type" : "avenue",
             "lines" : ["0031","0074","0101","0110","0121","0122","0123","0124","0125","0130","0151","0160","0161","0163","0164","0184","0214","0241","0302","0303","0310","031A","0331","0332","0333","073N","073S","302E","333E"]
         },
         "0173" : {
-            "name" : "Av Nossa Senhora Dos Navegantes",
+            "name" : "Av. Nossa Senhora dos Navegantes",
             "type" : "avenue",
             "lines" : ["0031","0074","0201","0202","0204","0210","0211","0212","0214","0290","031A","0331","073S"]
         },
         "0083" : {
-            "name" : "Av Paulino MÜller",
+            "name" : "Av. Paulino Müller",
             "type" : "avenue",
             "lines" : ["0010","0074","0102","0104","0160","0161","0163","0171","0172","0173","0175","0333","073N","073S","333E"]
         },
         "0121" : {
-            "name" : "Av Pedro Depiante",
+            "name" : "Av. Pedro Depiante",
             "type" : "avenue",
             "lines" : ["0123"]
         },
         "0210" : {
-            "name" : "Av Pedro Feu Rosa",
+            "name" : "Av. Pedro Feu Rosa",
             "type" : "avenue",
             "lines" : []
         },
         "0291" : {
-            "name" : "Av Pres. Florentino Avidos",
+            "name" : "Av. Pres. Florentino Avidos",
             "type" : "avenue",
             "lines" : ["0010","0031","0052","0071","0102","0103","0104","0172","0173","0181","0184","0203","0204","0210","0212","0370"]
         },
         "0303" : {
-            "name" : "Av Presidente Costa E Silva",
+            "name" : "Av. Presidente Costa E Silva",
             "type" : "avenue",
             "lines" : ["0123"]
         },
         "1227" : {
-            "name" : "Av Presidente Florentino Avidos",
+            "name" : "Av. Presidente Florentino Avidos",
             "type" : "avenue",
             "lines" : ["0051","0101","0110","0111","0112","0121","0122","0123","0124","0130","0151","0160","0161","0163","0171","0175","0182","0201","0211","0213","0241","0290","031A"]
         },
         "0106" : {
-            "name" : "Av Princesa Isabel",
+            "name" : "Av. Princesa Isabel",
             "type" : "avenue",
             "lines" : ["0010","0051","0072","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0181","0182","0184"]
         },
         "0065" : {
-            "name" : "Av Prof HermÍnio Blackman",
+            "name" : "Av. Prof Hermínio Blackman",
             "type" : "avenue",
             "lines" : ["0074","0182","031A","073N","073S"]
         },
         "0384" : {
-            "name" : "Av Professor Fernando Duarte Rabelo",
+            "name" : "Av. Professor Fernando Duarte Rabelo",
             "type" : "avenue",
             "lines" : ["0112","0122","0163","0210","0212","0214","302E"]
         },
         "0152" : {
-            "name" : "Av Quatro De Setembro",
+            "name" : "Av. Quatro de Setembro",
             "type" : "avenue",
             "lines" : ["0071","0211","0310","0331","0333","302E","333E"]
         },
         "0109" : {
-            "name" : "Av RepÚblica",
+            "name" : "Av. República",
             "type" : "avenue",
             "lines" : ["0031","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0151","0163","0181","0182","0201","0202","0203","0241","0290","031A"]
         },
         "0308" : {
-            "name" : "Av Rio Branco",
+            "name" : "Av. Rio Branco",
             "type" : "avenue",
             "lines" : ["0151","0214"]
         },
         "2512" : {
-            "name" : "Av Roberto Ewald",
+            "name" : "Av. Roberto Ewald",
             "type" : "avenue",
             "lines" : ["0010","0051","0052","0072","0102","0103","0104","0110","0112","0122","0123","0124","0130","0151","0160","0164","0172","0173","0175","0181","0184","0201","0202","0204","0210","0211","0212","0213","0241","031A","0370"]
         },
         "908 " : {
-            "name" : "Av Rozendo SerapiÃo De Souza Filho",
+            "name" : "Av. Rozendo Serapião de Souza Filho",
             "type" : "avenue",
             "lines" : ["0123","302E"]
         },
         "0132" : {
-            "name" : "Av Santo AntÔnio",
+            "name" : "Av. Santo Antônio",
             "type" : "avenue",
             "lines" : ["0010","0051","0052","0071","0072","0102","0103","0110","0121","0123","0124","0130","0161","0182","0201","0202","0211","0212","0213","0241","0290","0302","0370"]
         },
         "415 " : {
-            "name" : "Av Santo Antonio.",
+            "name" : "Av. Santo Antonio",
             "type" : "avenue",
             "lines" : ["0103","0110","0123","0124","0181","0182"]
         },
         "0237" : {
-            "name" : "Av Saturnino De Brito",
+            "name" : "Av. Saturnino de Brito",
             "type" : "avenue",
             "lines" : ["0031","0074","0103","0111","0112","0204","0210","0211","0212","0213","0290","031A"]
         },
         "0256" : {
-            "name" : "Av Saturnino Rangel Mauro",
+            "name" : "Av. Saturnino Rangel Mauro",
             "type" : "avenue",
             "lines" : ["0124"]
         },
         "0298" : {
-            "name" : "Av Solon Borges",
+            "name" : "Av. Solon Borges",
             "type" : "avenue",
             "lines" : []
         },
         "0136" : {
-            "name" : "Av VitÓria",
+            "name" : "Av. Vitória",
             "type" : "avenue",
             "lines" : ["0010","0051","0052","0071","0072","0101","0102","0103","0104","0105","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0181","0182","0184","0204","0333","333E"]
         },
@@ -411,7 +411,7 @@
             "lines" : ["0213","0290"]
         },
         "0325" : {
-            "name" : "Rua Afonso ClÁudio",
+            "name" : "Rua Afonso Cláudio",
             "type" : "street",
             "lines" : ["0101","0214"]
         },
@@ -426,17 +426,17 @@
             "lines" : ["0105"]
         },
         "0382" : {
-            "name" : "Rua Alaor De Queiroz Araujo",
+            "name" : "Rua Alaor de Queiroz Araujo",
             "type" : "street",
             "lines" : ["0103","0105","0201","0203","0213","0332"]
         },
         "0223" : {
-            "name" : "Rua Alaor Queiroz De AraÚjo",
+            "name" : "Rua Alaor Queiroz de Araújo",
             "type" : "street",
             "lines" : ["0105","0202"]
         },
         "0030" : {
-            "name" : "Rua Alarico De Lima Cabral",
+            "name" : "Rua Alarico de Lima Cabral",
             "type" : "street",
             "lines" : []
         },
@@ -456,7 +456,7 @@
             "lines" : ["0031","0051","0201","0210","0211","0212","0213","0241","0290","031A","0370"]
         },
         "698 " : {
-            "name" : "Rua AldomÁrio Soares Pinto",
+            "name" : "Rua Aldomário Soares Pinto",
             "type" : "street",
             "lines" : []
         },
@@ -476,12 +476,12 @@
             "lines" : ["0182","0204","073N"]
         },
         "0222" : {
-            "name" : "Rua Almirante SoÍdo",
+            "name" : "Rua Almirante Soído",
             "type" : "street",
             "lines" : ["0201","0203"]
         },
         "0227" : {
-            "name" : "Rua Almirante TamandarÉ",
+            "name" : "Rua Almirante Tamandaré",
             "type" : "street",
             "lines" : ["0201","0202","0203","0213"]
         },
@@ -511,17 +511,17 @@
             "lines" : ["0214"]
         },
         "0053" : {
-            "name" : "Rua AmÉlia Cunha Ornelas",
+            "name" : "Rua Amélia Cunha Ornelas",
             "type" : "street",
             "lines" : ["0102"]
         },
         "8521" : {
-            "name" : "Rua AmenÓphis De Assis",
+            "name" : "Rua Amenóphis de Assis",
             "type" : "street",
             "lines" : ["0370"]
         },
         "0320" : {
-            "name" : "Rua AmÉrica Do Sul",
+            "name" : "Rua América do Sul",
             "type" : "street",
             "lines" : []
         },
@@ -536,42 +536,42 @@
             "lines" : ["0213"]
         },
         "0700" : {
-            "name" : "Rua Antenor GuimarÃes",
+            "name" : "Rua Antenor Guimarães",
             "type" : "street",
             "lines" : ["0111"]
         },
         "687 " : {
-            "name" : "Rua AntÔnio Alves Batista ",
+            "name" : "Rua Antônio Alves Batista ",
             "type" : "street",
             "lines" : ["0074"]
         },
         "0129" : {
-            "name" : "Rua AntÔnio Campos",
+            "name" : "Rua Antônio Campos",
             "type" : "street",
             "lines" : ["0051","0052"]
         },
         "0296" : {
-            "name" : "Rua AntÔnio Nobre Filho",
+            "name" : "Rua Antônio Nobre Filho",
             "type" : "street",
             "lines" : ["0122","0163","0212"]
         },
         "297 " : {
-            "name" : "Rua AntÔnio Pinto De Queiroz",
+            "name" : "Rua Antônio Pinto de Queiroz",
             "type" : "street",
             "lines" : ["0201"]
         },
         "704 " : {
-            "name" : "Rua AntÔnio Ribeiro",
+            "name" : "Rua Antônio Ribeiro",
             "type" : "street",
             "lines" : ["0123"]
         },
         "688 " : {
-            "name" : "Rua AntÔnio SalomÃo Filho",
+            "name" : "Rua Antônio Salomão Filho",
             "type" : "street",
             "lines" : ["0074"]
         },
         "0220" : {
-            "name" : "Rua AntÔnio Santos",
+            "name" : "Rua Antônio Santos",
             "type" : "street",
             "lines" : ["0181","073N"]
         },
@@ -581,7 +581,7 @@
             "lines" : ["0181"]
         },
         "0228" : {
-            "name" : "Rua Ariosto Da Silva Santos",
+            "name" : "Rua Ariosto da Silva Santos",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
@@ -601,32 +601,32 @@
             "lines" : []
         },
         "0202" : {
-            "name" : "Rua AristÓbulo  Barbosa LeÃo",
+            "name" : "Rua Aristóbulo Barbosa Leão",
             "type" : "street",
             "lines" : ["0110","0124","0164","0184","0213","0214","0290","0302","0310","302E"]
         },
         "702 " : {
-            "name" : "Rua Arlindo BrÁs Do Nascimento",
+            "name" : "Rua Arlindo Brás do Nascimento",
             "type" : "street",
             "lines" : ["0031","0125","031A","073S"]
         },
         "099 " : {
-            "name" : "Rua Arlindo SodrÉ",
+            "name" : "Rua Arlindo Sodré",
             "type" : "street",
             "lines" : ["0125"]
         },
         "810 " : {
-            "name" : "Rua Armando Moreira De Oliveira",
+            "name" : "Rua Armando Moreira de Oliveira",
             "type" : "street",
             "lines" : ["0112","0212","0303"]
         },
         "874 " : {
-            "name" : "Rua Atalides Moreira De Souza",
+            "name" : "Rua Atalides Moreira de Souza",
             "type" : "street",
             "lines" : ["0103","0105","0201","0203","0213","0332"]
         },
         "0155" : {
-            "name" : "Rua AttÍlio Sperandio",
+            "name" : "Rua Attílio Sperandio",
             "type" : "street",
             "lines" : ["0071","0074","0171"]
         },
@@ -636,7 +636,7 @@
             "lines" : ["0181","0213"]
         },
         "0241" : {
-            "name" : "Rua Augusto EmÍlio Estelita Lins",
+            "name" : "Rua Augusto Emílio Estelita Lins",
             "type" : "street",
             "lines" : ["0103","0110","0121","0164","0211","0290","0310"]
         },
@@ -651,7 +651,7 @@
             "lines" : ["333E"]
         },
         "707 " : {
-            "name" : "Rua Avandir Oliveira Da Silva ",
+            "name" : "Rua Avandir Oliveira da Silva ",
             "type" : "street",
             "lines" : ["0175","0303","0370"]
         },
@@ -661,17 +661,17 @@
             "lines" : ["0151"]
         },
         "0398" : {
-            "name" : "Rua Balbina Dos Santos",
+            "name" : "Rua Balbina dos Santos",
             "type" : "street",
             "lines" : ["0104"]
         },
         "0104" : {
-            "name" : "Rua BarÃo De Itapemirim",
+            "name" : "Rua Barão de Itapemirim",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
         "5423" : {
-            "name" : "Rua BarÃo De MauÁ",
+            "name" : "Rua Barão de Mauá",
             "type" : "street",
             "lines" : ["0333","333E"]
         },
@@ -701,7 +701,7 @@
             "lines" : []
         },
         "409 " : {
-            "name" : "Rua Boa EsperanÇa",
+            "name" : "Rua Boa Esperança",
             "type" : "street",
             "lines" : []
         },
@@ -716,7 +716,7 @@
             "lines" : []
         },
         "0246" : {
-            "name" : "Rua Boulevard CaraÍbas",
+            "name" : "Rua Boulevard Caraíbas",
             "type" : "street",
             "lines" : []
         },
@@ -726,7 +726,7 @@
             "lines" : []
         },
         "0009" : {
-            "name" : "Rua BrÁs Rubim",
+            "name" : "Rua Brás Rubim",
             "type" : "street",
             "lines" : ["0103","0182","0202"]
         },
@@ -736,17 +736,17 @@
             "lines" : ["0103","0202"]
         },
         "1224" : {
-            "name" : "Rua Cabo JoÃo Felix Amorim",
+            "name" : "Rua Cabo João Felix Amorim",
             "type" : "street",
             "lines" : ["0175","0332"]
         },
         "0153" : {
-            "name" : "Rua Caetano JosÉ Gomes",
+            "name" : "Rua Caetano José Gomes",
             "type" : "street",
             "lines" : ["0071","0074","0171"]
         },
         "0340" : {
-            "name" : "Rua Cais SÃo Francisco",
+            "name" : "Rua Cais São Francisco",
             "type" : "street",
             "lines" : ["0202"]
         },
@@ -756,17 +756,17 @@
             "lines" : ["0181"]
         },
         "805 " : {
-            "name" : "Rua CapitÃo Domingos CorrÊia Rocha",
+            "name" : "Rua Capitão Domingos Corrêia Rocha",
             "type" : "street",
             "lines" : ["0051","0052"]
         },
         "0299" : {
-            "name" : "Rua CapitÃo Feu",
+            "name" : "Rua Capitão Feu",
             "type" : "street",
             "lines" : []
         },
         "903 " : {
-            "name" : "Rua CapitÃo JoÃo BrandÃo",
+            "name" : "Rua Capitão João Brandão",
             "type" : "street",
             "lines" : ["0201"]
         },
@@ -781,7 +781,7 @@
             "lines" : []
         },
         "047 " : {
-            "name" : "Rua Carlos Eduardo Monteiro De Lemos",
+            "name" : "Rua Carlos Eduardo Monteiro de Lemos",
             "type" : "street",
             "lines" : ["0124"]
         },
@@ -826,12 +826,12 @@
             "lines" : []
         },
         "0294" : {
-            "name" : "Rua Ciro Vieira Da Cunha",
+            "name" : "Rua Ciro Vieira da Cunha",
             "type" : "street",
             "lines" : ["0112","0122","0163","0210","0212","0214"]
         },
         "0225" : {
-            "name" : "Rua ClÓvis Machado",
+            "name" : "Rua Clóvis Machado",
             "type" : "street",
             "lines" : []
         },
@@ -846,7 +846,7 @@
             "lines" : []
         },
         "301 " : {
-            "name" : "Rua Constante SodrÉ",
+            "name" : "Rua Constante Sodré",
             "type" : "street",
             "lines" : ["0151"]
         },
@@ -871,7 +871,7 @@
             "lines" : ["0104"]
         },
         "0166" : {
-            "name" : "Rua Coronel JosÉ Martins Figueiredo",
+            "name" : "Rua Coronel José Martins Figueiredo",
             "type" : "street",
             "lines" : ["0125","0173","073S"]
         },
@@ -896,47 +896,47 @@
             "lines" : ["0202"]
         },
         "658 " : {
-            "name" : "Rua Da Constituinte ",
+            "name" : "Rua da Constituinte",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
         "0234" : {
-            "name" : "Rua Da Coragem",
+            "name" : "Rua da Coragem",
             "type" : "street",
             "lines" : ["0071","0072","0211","0310","0331","0333","302E","333E"]
         },
         "0255" : {
-            "name" : "Rua Da Creche",
+            "name" : "Rua da Creche",
             "type" : "street",
             "lines" : []
         },
         "385 " : {
-            "name" : "Rua Da Estiva",
+            "name" : "Rua da Estiva",
             "type" : "street",
             "lines" : []
         },
         "800 " : {
-            "name" : "Rua Da Galeria",
+            "name" : "Rua da Galeria",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
         "0278" : {
-            "name" : "Rua Da GrÉcia",
+            "name" : "Rua da Grécia",
             "type" : "street",
             "lines" : []
         },
         "0161" : {
-            "name" : "Rua Da Liberdade",
+            "name" : "Rua da Liberdade",
             "type" : "street",
             "lines" : []
         },
         "0317" : {
-            "name" : "Rua Da Luta",
+            "name" : "Rua da Luta",
             "type" : "street",
             "lines" : ["0175"]
         },
         "0284" : {
-            "name" : "Rua Da Saudade",
+            "name" : "Rua da Saudade",
             "type" : "street",
             "lines" : []
         },
@@ -946,17 +946,17 @@
             "lines" : ["0031","0172"]
         },
         "0199" : {
-            "name" : "Rua Darcy GrijÓ",
+            "name" : "Rua Darcy Grijó",
             "type" : "street",
             "lines" : ["0110","0124","0130","0164","0184","0214","0303","0310"]
         },
         "619 " : {
-            "name" : "Rua Das Oliveiras",
+            "name" : "Rua das Oliveiras",
             "type" : "street",
             "lines" : ["0181"]
         },
         "0139" : {
-            "name" : "Rua Das Palmeiras",
+            "name" : "Rua das Palmeiras",
             "type" : "street",
             "lines" : ["0031","0051","0052","0125","0172","031A","073S"]
         },
@@ -966,22 +966,22 @@
             "lines" : ["0104"]
         },
         "907 " : {
-            "name" : "Rua Deputado Castello MendonÇa",
+            "name" : "Rua Deputado Castello Mendonça",
             "type" : "street",
             "lines" : []
         },
         "0122" : {
-            "name" : "Rua Deputado Darcy Castelo MendonÇa",
+            "name" : "Rua Deputado Darcy Castelo Mendonça",
             "type" : "street",
             "lines" : ["0123"]
         },
         "654 " : {
-            "name" : "Rua Dermival Lyrio ",
+            "name" : "Rua Dermival Lyrio",
             "type" : "street",
             "lines" : ["302E"]
         },
         "617 " : {
-            "name" : "Rua Des Ernesto Da Silva GuimarÃes",
+            "name" : "Rua Des. Ernesto da Silva Guimarães",
             "type" : "street",
             "lines" : ["0172","0204"]
         },
@@ -996,47 +996,47 @@
             "lines" : ["0201","0202","0213"]
         },
         "0112" : {
-            "name" : "Rua Desembargador Gilson MendonÇa",
+            "name" : "Rua Desembargador Gilson Mendonça",
             "type" : "street",
             "lines" : ["0051","0052","0172","0204"]
         },
         "605 " : {
-            "name" : "Rua Desembargador JoÃo Manoel Carvalho",
+            "name" : "Rua Desembargador João Manoel Carvalho",
             "type" : "street",
             "lines" : ["0101"]
         },
         "0181" : {
-            "name" : "Rua Dezenove De Maio",
+            "name" : "Rua Dezenove de Maio",
             "type" : "street",
             "lines" : []
         },
         "0352" : {
-            "name" : "Rua DionÍsio Rosendo",
+            "name" : "Rua Dionísio Rosendo",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
         "539 " : {
-            "name" : "Rua Do CajÚ",
+            "name" : "Rua do Cajú",
             "type" : "street",
             "lines" : ["0010","0211","0303"]
         },
         "0345" : {
-            "name" : "Rua Do Canal",
+            "name" : "Rua do Canal",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
         "0248" : {
-            "name" : "Rua Do Canavial",
+            "name" : "Rua do Canavial",
             "type" : "street",
             "lines" : []
         },
         "0159" : {
-            "name" : "Rua Do Coqueiro",
+            "name" : "Rua do Coqueiro",
             "type" : "street",
             "lines" : []
         },
         "676 " : {
-            "name" : "Rua Do Luar",
+            "name" : "Rua do Luar",
             "type" : "street",
             "lines" : ["0151","0332"]
         },
@@ -1051,7 +1051,7 @@
             "lines" : ["0202"]
         },
         "0085" : {
-            "name" : "Rua Dom Pedro Ii",
+            "name" : "Rua Dom Pedro II",
             "type" : "street",
             "lines" : ["0101"]
         },
@@ -1061,7 +1061,7 @@
             "lines" : ["0074","0151","0160","0161","0163","0164","0184","0241","0302","0303","0310","0331","0332","0333","302E","333E"]
         },
         "0027" : {
-            "name" : "Rua Dos Canoeiros",
+            "name" : "Rua dos Canoeiros",
             "type" : "street",
             "lines" : []
         },
@@ -1071,32 +1071,32 @@
             "lines" : ["0122","0212"]
         },
         "0194" : {
-            "name" : "Rua Doutor AloÍsio Menezes",
+            "name" : "Rua Doutor Aloísio Menezes",
             "type" : "street",
             "lines" : ["0074","0182","0204","073N","073S"]
         },
         "0110" : {
-            "name" : "Rua Doutor AmÉrico De Oliveira",
+            "name" : "Rua Doutor Américo de Oliveira",
             "type" : "street",
             "lines" : ["0051","0052"]
         },
         "0164" : {
-            "name" : "Rua Doutor Arlindo SodrÉ",
+            "name" : "Rua Doutor Arlindo Sodré",
             "type" : "street",
             "lines" : []
         },
         "709 " : {
-            "name" : "Rua Doutor Eurico De Aguiar",
+            "name" : "Rua Doutor Eurico de Aguiar",
             "type" : "street",
             "lines" : ["0031","0103","0105","0201","031A","0331","0332","073N"]
         },
         "0046" : {
-            "name" : "Rua Doutor Ivan Ramos De Medeiros",
+            "name" : "Rua Doutor Ivan Ramos de Medeiros",
             "type" : "street",
             "lines" : ["0051","0052","0104","0123","0201"]
         },
         "0351" : {
-            "name" : "Rua Doutor JosÉ Benjamin Costa",
+            "name" : "Rua Doutor José Benjamin Costa",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
@@ -1121,42 +1121,42 @@
             "lines" : []
         },
         "701 " : {
-            "name" : "Rua Dr Agliberto Rodrigues Moreira",
+            "name" : "Rua Dr. Agliberto Rodrigues Moreira",
             "type" : "street",
             "lines" : ["0163"]
         },
         "526 " : {
-            "name" : "Rua Dr Duarte Braga",
+            "name" : "Rua Dr. Duarte Braga",
             "type" : "street",
             "lines" : []
         },
         "401 " : {
-            "name" : "Rua Dr Herwan Modenese Wanderley",
+            "name" : "Rua Dr. Herwan Modenese Wanderley",
             "type" : "street",
             "lines" : ["0103","0121","0164","0310"]
         },
         "532 " : {
-            "name" : "Rua Dr JoÃo Carlos Souza ",
+            "name" : "Rua Dr. João Carlos Souza",
             "type" : "street",
             "lines" : ["0031","0101"]
         },
         "901 " : {
-            "name" : "Rua Duckla De Aguiar",
+            "name" : "Rua Duckla de Aguiar",
             "type" : "street",
             "lines" : ["0201"]
         },
         "629 " : {
-            "name" : "Rua Elza De Jesus",
+            "name" : "Rua Elza de Jesus",
             "type" : "street",
             "lines" : ["0214"]
         },
         "527 " : {
-            "name" : "Rua Emidio Costa De Santana",
+            "name" : "Rua Emidio Costa de Santana",
             "type" : "street",
             "lines" : ["0074"]
         },
         "0017" : {
-            "name" : "Rua EmÍlio Ferreira Silva",
+            "name" : "Rua Emílio Ferreira Silva",
             "type" : "street",
             "lines" : ["0151","0332"]
         },
@@ -1166,17 +1166,17 @@
             "lines" : ["0104"]
         },
         "672 " : {
-            "name" : "Rua Engenheiro CÉsar Dantas ",
+            "name" : "Rua Engenheiro César Dantas ",
             "type" : "street",
             "lines" : []
         },
         "660 " : {
-            "name" : "Rua Engenheiro FÁbio Ruschi ",
+            "name" : "Rua Engenheiro Fábio Ruschi ",
             "type" : "street",
             "lines" : ["0370"]
         },
         "0001" : {
-            "name" : "Rua Engenheiro Manoel Dos Passos Barros",
+            "name" : "Rua Engenheiro Manoel dos Passos Barros",
             "type" : "street",
             "lines" : ["0103","0110","0121","0161","0241","0290"]
         },
@@ -1206,17 +1206,17 @@
             "lines" : ["0124","0184","0213","0214","0290","0302","302E"]
         },
         "0313" : {
-            "name" : "Rua EugÊnio GuimarÃes",
+            "name" : "Rua Eugênio Guimarães",
             "type" : "street",
             "lines" : []
         },
         "0282" : {
-            "name" : "Rua EugÊnio Netto",
+            "name" : "Rua Eugênio Netto",
             "type" : "street",
             "lines" : ["0101","0214"]
         },
         "0212" : {
-            "name" : "Rua EugÊnio Ramos",
+            "name" : "Rua Eugênio Ramos",
             "type" : "street",
             "lines" : []
         },
@@ -1226,7 +1226,7 @@
             "lines" : []
         },
         "0171" : {
-            "name" : "Rua Eurico De Aguiar",
+            "name" : "Rua Eurico de Aguiar",
             "type" : "street",
             "lines" : ["0213"]
         },
@@ -1241,7 +1241,7 @@
             "lines" : []
         },
         "389 " : {
-            "name" : "Rua Felicidade Correia Dos Santos",
+            "name" : "Rua Felicidade Correia dos Santos",
             "type" : "street",
             "lines" : ["0010","0071","0072","0211","0310","0331","0333","302E","333E"]
         },
@@ -1256,7 +1256,7 @@
             "lines" : ["0202"]
         },
         "0268" : {
-            "name" : "Rua FilogÔnio Motta",
+            "name" : "Rua Filogônio Motta",
             "type" : "street",
             "lines" : ["0160","0161","0241","0310"]
         },
@@ -1276,7 +1276,7 @@
             "lines" : ["0104"]
         },
         "618 " : {
-            "name" : "Rua Flor  LÍrio",
+            "name" : "Rua Flor Lírio",
             "type" : "street",
             "lines" : ["0181"]
         },
@@ -1291,12 +1291,12 @@
             "lines" : ["0101","0214"]
         },
         "386 " : {
-            "name" : "Rua Francisco De Alvarenga Rabelo",
+            "name" : "Rua Francisco de Alvarenga Rabelo",
             "type" : "street",
             "lines" : ["0181","073N","073S"]
         },
         "0305" : {
-            "name" : "Rua Francisco FundÃo",
+            "name" : "Rua Francisco Fundão",
             "type" : "street",
             "lines" : ["0123"]
         },
@@ -1316,7 +1316,7 @@
             "lines" : ["0213"]
         },
         "995 " : {
-            "name" : "Rua Frei AntÔnio Dos MÁrtires",
+            "name" : "Rua Frei Antônio dos Mártires",
             "type" : "street",
             "lines" : ["0202"]
         },
@@ -1326,12 +1326,12 @@
             "lines" : ["0202"]
         },
         "0397" : {
-            "name" : "Rua GastÃo Pache Farias",
+            "name" : "Rua Gastão Pache Farias",
             "type" : "street",
             "lines" : ["0104"]
         },
         "0191" : {
-            "name" : "Rua GastÃo Villar",
+            "name" : "Rua Gastão Villar",
             "type" : "street",
             "lines" : ["0102"]
         },
@@ -1341,27 +1341,27 @@
             "lines" : []
         },
         "0108" : {
-            "name" : "Rua General OsÓrio",
+            "name" : "Rua General Osório",
             "type" : "street",
             "lines" : ["0010","0051","0052","0071","0110","0124","0130","0160","0161","0164","0171","0172","0173","0175","0184","0204","0210","0211","0212","0213","0370"]
         },
         "675 " : {
-            "name" : "Rua GetÚlio Miranda",
+            "name" : "Rua Getúlio Miranda",
             "type" : "street",
             "lines" : ["0151","0332"]
         },
         "508 " : {
-            "name" : "Rua Gilson MendonÇa",
+            "name" : "Rua Gilson Mendonça",
             "type" : "street",
             "lines" : []
         },
         "0158" : {
-            "name" : "Rua GonÇalves Ledo",
+            "name" : "Rua Gonçalves Ledo",
             "type" : "street",
             "lines" : []
         },
         "0391" : {
-            "name" : "Rua Governador JosÉ Sete",
+            "name" : "Rua Governador José Sete",
             "type" : "street",
             "lines" : ["0203","0212","0241","0290","0370"]
         },
@@ -1391,7 +1391,7 @@
             "lines" : ["0101"]
         },
         "0176" : {
-            "name" : "Rua Helena MÜller",
+            "name" : "Rua Helena Müller",
             "type" : "street",
             "lines" : ["0102"]
         },
@@ -1411,7 +1411,7 @@
             "lines" : ["0010","0052","0071","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0124","0125","0130","0151","0160","0161","0163","0164","0171","0172","0173","0175","0181","0182","0184","0204"]
         },
         "0005" : {
-            "name" : "Rua HercÍlia Dias Maciel",
+            "name" : "Rua Hercília Dias Maciel",
             "type" : "street",
             "lines" : ["0102"]
         },
@@ -1426,12 +1426,12 @@
             "lines" : []
         },
         "717 " : {
-            "name" : "Rua HorÁcio Dias Dos Santos",
+            "name" : "Rua Horácio Dias dos Santos",
             "type" : "street",
             "lines" : ["0181"]
         },
         "0362" : {
-            "name" : "Rua Humberto Martins De Paula",
+            "name" : "Rua Humberto Martins de Paula",
             "type" : "street",
             "lines" : ["0203"]
         },
@@ -1466,42 +1466,42 @@
             "lines" : []
         },
         "0405" : {
-            "name" : "Rua JoÃo  Pereira  Costa",
+            "name" : "Rua João Pereira Costa",
             "type" : "street",
             "lines" : ["0104"]
         },
         "1011" : {
-            "name" : "Rua JoÃo Bastos Vieira",
+            "name" : "Rua João Bastos Vieira",
             "type" : "street",
             "lines" : ["0102"]
         },
         "0311" : {
-            "name" : "Rua JoÃo Batista Marinho",
+            "name" : "Rua João Batista Marinho",
             "type" : "street",
             "lines" : ["0171"]
         },
         "0226" : {
-            "name" : "Rua JoÃo Batista Parra",
+            "name" : "Rua João Batista Parra",
             "type" : "street",
             "lines" : ["0201"]
         },
         "0076" : {
-            "name" : "Rua JoÃo Carlos Souza",
+            "name" : "Rua João Carlos Souza",
             "type" : "street",
             "lines" : ["0125","031A","073S"]
         },
         "0327" : {
-            "name" : "Rua JoÃo Da Cruz",
+            "name" : "Rua João da Cruz",
             "type" : "street",
             "lines" : ["0101","0214"]
         },
         "705 " : {
-            "name" : "Rua JoÃo JosÉ Cabas",
+            "name" : "Rua João José Cabas",
             "type" : "street",
             "lines" : ["0123"]
         },
         "0348" : {
-            "name" : "Rua JoÃo Soares",
+            "name" : "Rua João Soares",
             "type" : "street",
             "lines" : ["0104"]
         },
@@ -1511,12 +1511,12 @@
             "lines" : []
         },
         "2711" : {
-            "name" : "Rua Joaquim PlÁcido Da Silva",
+            "name" : "Rua Joaquim Plácido da Silva",
             "type" : "street",
             "lines" : ["0102"]
         },
         "627 " : {
-            "name" : "Rua Joca Pereira Dos Santos",
+            "name" : "Rua Joca Pereira dos Santos",
             "type" : "street",
             "lines" : ["0175","0303","0332"]
         },
@@ -1526,7 +1526,7 @@
             "lines" : []
         },
         "710 " : {
-            "name" : "Rua Jonael SÓcrates Medeiros Ferreira",
+            "name" : "Rua Jonael Sócrates Medeiros Ferreira",
             "type" : "street",
             "lines" : ["0211"]
         },
@@ -1536,7 +1536,7 @@
             "lines" : ["0010"]
         },
         "0498" : {
-            "name" : "Rua JosÉ Alexandre Buaiz",
+            "name" : "Rua José Alexandre Buaiz",
             "type" : "street",
             "lines" : ["0103","0105","0201","0203","0213","0332"]
         },
@@ -1551,52 +1551,52 @@
             "lines" : ["0172","0204"]
         },
         "0011" : {
-            "name" : "Rua JosÉ Bittencourt",
+            "name" : "Rua José Bittencourt",
             "type" : "street",
             "lines" : ["0010","0102","0103","0123","0182","0201","0202"]
         },
         "0702" : {
-            "name" : "Rua JosÉ BonifÁcio",
+            "name" : "Rua José Bonifácio",
             "type" : "street",
             "lines" : ["0111"]
         },
         "0392" : {
-            "name" : "Rua JosÉ Caetano Silva",
+            "name" : "Rua José Caetano Silva",
             "type" : "street",
             "lines" : []
         },
         "2203" : {
-            "name" : "Rua JosÉ Carvalho",
+            "name" : "Rua José Carvalho",
             "type" : "street",
             "lines" : ["0102"]
         },
         "0174" : {
-            "name" : "Rua JosÉ Cassiano Dos Santos",
+            "name" : "Rua José Cassiano dos Santos",
             "type" : "street",
             "lines" : ["0074","0160","0163","0171","0172","0173","0175","0333","073N","073S","333E"]
         },
         "0244" : {
-            "name" : "Rua JosÉ Celso ClÁudio",
+            "name" : "Rua José Celso Cláudio",
             "type" : "street",
             "lines" : ["0110","0121","0160","0161","0164","0211","0241","0290","0310"]
         },
         "0236" : {
-            "name" : "Rua JosÉ Coelho",
+            "name" : "Rua José Coelho",
             "type" : "street",
             "lines" : ["0010","0211","0303"]
         },
         "690 " : {
-            "name" : "Rua JosÉ Daniel Nunes",
+            "name" : "Rua José Daniel Nunes",
             "type" : "street",
             "lines" : ["0074"]
         },
         "0193" : {
-            "name" : "Rua JosÉ Elias Dos Reis Fraga",
+            "name" : "Rua José Elias dos Reis Fraga",
             "type" : "street",
             "lines" : []
         },
         "0277" : {
-            "name" : "Rua JosÉ Farias",
+            "name" : "Rua José Farias",
             "type" : "street",
             "lines" : ["0031","0101","0125","031A","073S"]
         },
@@ -1606,7 +1606,7 @@
             "lines" : ["0125","0203"]
         },
         "0115" : {
-            "name" : "Rua JosÉ Malta",
+            "name" : "Rua José Malta",
             "type" : "street",
             "lines" : ["0010","0163","0171","0333"]
         },
@@ -1616,47 +1616,47 @@
             "lines" : ["0105"]
         },
         "0274" : {
-            "name" : "Rua JosÉ Motta Fraga",
+            "name" : "Rua José Motta Fraga",
             "type" : "street",
             "lines" : ["0074","0173"]
         },
         "0206" : {
-            "name" : "Rua JosÉ Neves Cyprestes",
+            "name" : "Rua José Neves Cyprestes",
             "type" : "street",
             "lines" : ["0124","0184","0213","0290"]
         },
         "407 " : {
-            "name" : "Rua JosÉ Rosa",
+            "name" : "Rua José Rosa",
             "type" : "street",
             "lines" : []
         },
         "516 " : {
-            "name" : "Rua JosÉ Sette",
+            "name" : "Rua José Sette",
             "type" : "street",
             "lines" : []
         },
         "0276" : {
-            "name" : "Rua JosÉ Teixeira",
+            "name" : "Rua José Teixeira",
             "type" : "street",
             "lines" : ["0103","0105","0202","0203","0213","0214","0332","073S"]
         },
         "671 " : {
-            "name" : "Rua JosÉ Vivacqua",
+            "name" : "Rua José Vivacqua",
             "type" : "street",
             "lines" : ["0122","0163","0212"]
         },
         "0336" : {
-            "name" : "Rua JosuÉ Prado",
+            "name" : "Rua Josué Prado",
             "type" : "street",
             "lines" : ["0202"]
         },
         "0270" : {
-            "name" : "Rua Judite LeÃo Castelo",
+            "name" : "Rua Judite Leão Castelo",
             "type" : "street",
             "lines" : []
         },
         "103 " : {
-            "name" : "Rua Kleber JosÉ De Andrade",
+            "name" : "Rua Kleber José de Andrade",
             "type" : "street",
             "lines" : ["0203"]
         },
@@ -1666,7 +1666,7 @@
             "lines" : ["0102","0214"]
         },
         "0401" : {
-            "name" : "Rua Lauro Farias Dos Santos",
+            "name" : "Rua Lauro Farias dos Santos",
             "type" : "street",
             "lines" : ["0104"]
         },
@@ -1686,12 +1686,12 @@
             "lines" : ["0151"]
         },
         "412 " : {
-            "name" : "Rua LeÔncio Nunes",
+            "name" : "Rua Leôncio Nunes",
             "type" : "street",
             "lines" : ["0010","0051","0052","0071","0110","0124","0130","0182","0211","0212","0213","0290","0302","0370"]
         },
         "0156" : {
-            "name" : "Rua Leopoldo Nunes Do Amaral Pereira",
+            "name" : "Rua Leopoldo Nunes do Amaral Pereira",
             "type" : "street",
             "lines" : ["0071","0072","0074","0171"]
         },
@@ -1706,7 +1706,7 @@
             "lines" : ["0104"]
         },
         "691 " : {
-            "name" : "Rua Lucidato Vieira FalcÃo",
+            "name" : "Rua Lucidato Vieira Falcão",
             "type" : "street",
             "lines" : ["0102","0104","0123","0201"]
         },
@@ -1716,7 +1716,7 @@
             "lines" : ["0074"]
         },
         "713 " : {
-            "name" : "Rua Lusmar Machado De Moraes",
+            "name" : "Rua Lusmar Machado de Moraes",
             "type" : "street",
             "lines" : []
         },
@@ -1726,7 +1726,7 @@
             "lines" : ["0074"]
         },
         "802 " : {
-            "name" : "Rua Manoel Messias Dos Santos",
+            "name" : "Rua Manoel Messias dos Santos",
             "type" : "street",
             "lines" : []
         },
@@ -1736,7 +1736,7 @@
             "lines" : ["0125"]
         },
         "384 " : {
-            "name" : "Rua Manoel Salustiano De Souza",
+            "name" : "Rua Manoel Salustiano de Souza",
             "type" : "street",
             "lines" : ["0151","0332"]
         },
@@ -1766,12 +1766,12 @@
             "lines" : ["0181","073S"]
         },
         "615 " : {
-            "name" : "Rua Maria Auxiliadora G SalomÃo",
+            "name" : "Rua Maria Auxiliadora G Salomão",
             "type" : "street",
             "lines" : []
         },
         "507 " : {
-            "name" : "Rua Maria Da PaixÃo Santos",
+            "name" : "Rua Maria da Paixão Santos",
             "type" : "street",
             "lines" : ["0204"]
         },
@@ -1781,7 +1781,7 @@
             "lines" : ["0124","0184","0302","0310","302E"]
         },
         "0263" : {
-            "name" : "Rua MarÍlia Resende Scarton Coutinho",
+            "name" : "Rua Marília Resende Scarton Coutinho",
             "type" : "street",
             "lines" : ["0105","0201","0203","0332"]
         },
@@ -1801,12 +1801,12 @@
             "lines" : ["0104"]
         },
         "87  " : {
-            "name" : "Rua MÁrio Teixeira Nascimento",
+            "name" : "Rua Mário Teixeira Nascimento",
             "type" : "street",
             "lines" : []
         },
         "1616" : {
-            "name" : "Rua Martim CÃo",
+            "name" : "Rua Martim Cão",
             "type" : "street",
             "lines" : []
         },
@@ -1821,17 +1821,17 @@
             "lines" : []
         },
         "0295" : {
-            "name" : "Rua Milton De Castro Mattos",
+            "name" : "Rua Milton de Castro Mattos",
             "type" : "street",
             "lines" : ["0122","0163","0212"]
         },
         "8848" : {
-            "name" : "Rua Milton Manoel Dos Santos",
+            "name" : "Rua Milton Manoel dos Santos",
             "type" : "street",
             "lines" : []
         },
         "028 " : {
-            "name" : "Rua MiosÓstes",
+            "name" : "Rua Miosóstes",
             "type" : "street",
             "lines" : ["0181"]
         },
@@ -1861,7 +1861,7 @@
             "lines" : ["0202"]
         },
         "708 " : {
-            "name" : "Rua Nicanor Alves Dos Santos",
+            "name" : "Rua Nicanor Alves dos Santos",
             "type" : "street",
             "lines" : ["0182"]
         },
@@ -1871,12 +1871,12 @@
             "lines" : ["0175"]
         },
         "609 " : {
-            "name" : "Rua Nossa Senhora Da ConceiÇÃo",
+            "name" : "Rua Nossa Senhora da Conceição",
             "type" : "street",
             "lines" : ["0175","0332","0370"]
         },
         "682 " : {
-            "name" : "Rua Nova EsperanÇa",
+            "name" : "Rua Nova Esperança",
             "type" : "street",
             "lines" : ["0010","0303"]
         },
@@ -1886,7 +1886,7 @@
             "lines" : ["0175"]
         },
         "0002" : {
-            "name" : "Rua Novo ImpÉrio",
+            "name" : "Rua Novo Império",
             "type" : "street",
             "lines" : []
         },
@@ -1901,17 +1901,17 @@
             "lines" : ["0124","0184"]
         },
         "0016" : {
-            "name" : "Rua Oito De Julho",
+            "name" : "Rua Oito de Julho",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
         "678 " : {
-            "name" : "Rua OlÍmpio LÍrio",
+            "name" : "Rua Olímpio Lírio",
             "type" : "street",
             "lines" : ["0151"]
         },
         "0196" : {
-            "name" : "Rua Onze De Janeiro",
+            "name" : "Rua Onze de Janeiro",
             "type" : "street",
             "lines" : ["0181","0213"]
         },
@@ -1936,7 +1936,7 @@
             "lines" : ["0171","0303","0332"]
         },
         "674 " : {
-            "name" : "Rua Oswaldo Bastos De Souza Freitas",
+            "name" : "Rua Oswaldo Bastos de Souza Freitas",
             "type" : "street",
             "lines" : []
         },
@@ -1956,12 +1956,12 @@
             "lines" : ["0051","0052","0104","0123","0201"]
         },
         "657 " : {
-            "name" : "Rua Padre JosÉ De Anchieta ",
+            "name" : "Rua Padre José de Anchieta",
             "type" : "street",
             "lines" : ["0031","0101","0102","0103","0104","0110","0112","0121","0122","0123","0151","0163","0181","0182","0201","0203","0241","0290","031A"]
         },
         "0359" : {
-            "name" : "Rua Padre NÓbrega",
+            "name" : "Rua Padre Nóbrega",
             "type" : "street",
             "lines" : ["0202"]
         },
@@ -1971,7 +1971,7 @@
             "lines" : ["031A"]
         },
         "1415" : {
-            "name" : "Rua Paulo De Vasconcelos",
+            "name" : "Rua Paulo de Vasconcelos",
             "type" : "street",
             "lines" : []
         },
@@ -1981,7 +1981,7 @@
             "lines" : ["0010"]
         },
         "0258" : {
-            "name" : "Rua Pedro Carlos De Souza",
+            "name" : "Rua Pedro Carlos de Souza",
             "type" : "street",
             "lines" : []
         },
@@ -1991,7 +1991,7 @@
             "lines" : ["0214","073N"]
         },
         "208 " : {
-            "name" : "Rua Pedro Lima RosÁrio",
+            "name" : "Rua Pedro Lima Rosário",
             "type" : "street",
             "lines" : ["0204"]
         },
@@ -2056,7 +2056,7 @@
             "lines" : ["0102","0123","0201"]
         },
         "0189" : {
-            "name" : "Rua Prof HerÁclito Pereira",
+            "name" : "Rua Prof Heráclito Pereira",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
@@ -2066,7 +2066,7 @@
             "lines" : []
         },
         "0300" : {
-            "name" : "Rua Prof Maria Estela De Novaes",
+            "name" : "Rua Prof Maria Estela de Novaes",
             "type" : "street",
             "lines" : []
         },
@@ -2076,12 +2076,12 @@
             "lines" : []
         },
         "0287" : {
-            "name" : "Rua Prof Mario F  Borges",
+            "name" : "Rua Prof Mario F Borges",
             "type" : "street",
             "lines" : ["0112"]
         },
         "957 " : {
-            "name" : "Rua Prof O. Drumond De Carvalho",
+            "name" : "Rua Prof O. Drumond de Carvalho",
             "type" : "street",
             "lines" : []
         },
@@ -2091,12 +2091,12 @@
             "lines" : ["0112","0163"]
         },
         "651 " : {
-            "name" : "Rua Prof. Ocarlina Drumond De Carvalho",
+            "name" : "Rua Prof. Ocarlina Drumond de Carvalho",
             "type" : "street",
             "lines" : ["0112","0122","0163","0212","0303"]
         },
         "663 " : {
-            "name" : "Rua Professor JosÉ Nunes",
+            "name" : "Rua Professor José Nunes",
             "type" : "street",
             "lines" : ["0104"]
         },
@@ -2131,7 +2131,7 @@
             "lines" : []
         },
         "1517" : {
-            "name" : "Rua Quatro De Setembro",
+            "name" : "Rua Quatro de Setembro",
             "type" : "street",
             "lines" : ["0072"]
         },
@@ -2146,22 +2146,22 @@
             "lines" : []
         },
         "0319" : {
-            "name" : "Rua Raul De Carvalho",
+            "name" : "Rua Raul de Carvalho",
             "type" : "street",
             "lines" : ["0175","0303","0332"]
         },
         "403 " : {
-            "name" : "Rua Raul De Oliveira Neves",
+            "name" : "Rua Raul de Oliveira Neves",
             "type" : "street",
             "lines" : ["0103","0121","0164","0310"]
         },
         "0264" : {
-            "name" : "Rua Renato Nascimento  Daher Carneiro",
+            "name" : "Rua Renato Nascimento Daher Carneiro",
             "type" : "street",
             "lines" : ["0203"]
         },
         "0233" : {
-            "name" : "Rua Retorno PraÇa Dos Namorados",
+            "name" : "Rua Retorno Praça dos Namorados",
             "type" : "street",
             "lines" : []
         },
@@ -2186,17 +2186,17 @@
             "lines" : ["0332"]
         },
         "0192" : {
-            "name" : "Rua Rosemiro Telles De SÁ",
+            "name" : "Rua Rosemiro Telles de Sá",
             "type" : "street",
             "lines" : ["0182","031A","073S"]
         },
         "0301" : {
-            "name" : "Rua Rosendo SerapiÃo Souza Filho",
+            "name" : "Rua Rosendo Serapião Souza Filho",
             "type" : "street",
             "lines" : ["0123","0213","0303"]
         },
         "804 " : {
-            "name" : "Rua Rosilda FalcÃo Dos Anjos",
+            "name" : "Rua Rosilda Falcão dos Anjos",
             "type" : "street",
             "lines" : ["0031","0101","0103","0104","0110","0112","0121","0123","0160","0161","0164","0171","0172","0173","0175","0184","0202","0204","0210","0241","0290","031A","0370"]
         },
@@ -2216,12 +2216,12 @@
             "lines" : ["0203"]
         },
         "0402" : {
-            "name" : "Rua Santa Rita De CÁssia",
+            "name" : "Rua Santa Rita de Cássia",
             "type" : "street",
             "lines" : ["0104"]
         },
         "610 " : {
-            "name" : "Rua Santo AntÔnio",
+            "name" : "Rua Santo Antônio",
             "type" : "street",
             "lines" : []
         },
@@ -2231,72 +2231,72 @@
             "lines" : ["0125"]
         },
         "0014" : {
-            "name" : "Rua SÃo Bartolomeu",
+            "name" : "Rua São Bartolomeu",
             "type" : "street",
             "lines" : ["0102","0104","0123","0201"]
         },
         "502 " : {
-            "name" : "Rua SÃo Bento",
+            "name" : "Rua São Bento",
             "type" : "street",
             "lines" : []
         },
         "0323" : {
-            "name" : "Rua SÃo Francisco",
+            "name" : "Rua São Francisco",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
         "0188" : {
-            "name" : "Rua SÃo Gabriel",
+            "name" : "Rua São Gabriel",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
         "0186" : {
-            "name" : "Rua SÃo JoÃo ",
+            "name" : "Rua São João",
             "type" : "street",
             "lines" : ["0102","0104","0123","0201"]
         },
         "815 " : {
-            "name" : "Rua SÃo JoÃo Batista",
+            "name" : "Rua São João Batista",
             "type" : "street",
             "lines" : ["0332"]
         },
         "0406" : {
-            "name" : "Rua SÃo Jorge",
+            "name" : "Rua São Jorge",
             "type" : "street",
             "lines" : ["0104"]
         },
         "0322" : {
-            "name" : "Rua SÃo Judas Tadeu",
+            "name" : "Rua São Judas Tadeu",
             "type" : "street",
             "lines" : []
         },
         "537 " : {
-            "name" : "Rua SÃo Lazaro",
+            "name" : "Rua São Lazaro",
             "type" : "street",
             "lines" : ["0303"]
         },
         "621 " : {
-            "name" : "Rua SÃo Marcos",
+            "name" : "Rua São Marcos",
             "type" : "street",
             "lines" : ["0104"]
         },
         "712 " : {
-            "name" : "Rua SÃo Nicolau",
+            "name" : "Rua São Nicolau",
             "type" : "street",
             "lines" : ["0303"]
         },
         "0235" : {
-            "name" : "Rua SÃo Pedro",
+            "name" : "Rua São Pedro",
             "type" : "street",
             "lines" : ["0010","0211"]
         },
         "0257" : {
-            "name" : "Rua SÃo SebastiÃo",
+            "name" : "Rua São Sebastião",
             "type" : "street",
             "lines" : ["0130","0175","0303","0332","0370"]
         },
         "0350" : {
-            "name" : "Rua SÃo SimÃo",
+            "name" : "Rua São Simão",
             "type" : "street",
             "lines" : ["0104"]
         },
@@ -2306,22 +2306,22 @@
             "lines" : ["0101","0151","0214"]
         },
         "528 " : {
-            "name" : "Rua SebastiÃo Costa",
+            "name" : "Rua Sebastião Costa",
             "type" : "street",
             "lines" : ["0074"]
         },
         "626 " : {
-            "name" : "Rua SebastiÃo Perovano",
+            "name" : "Rua Sebastião Perovano",
             "type" : "street",
             "lines" : ["0122","0163","0212"]
         },
         "0272" : {
-            "name" : "Rua SebastiÃo Tourino",
+            "name" : "Rua Sebastião Tourino",
             "type" : "street",
             "lines" : []
         },
         "695 " : {
-            "name" : "Rua SÉrgio Nasser ",
+            "name" : "Rua Sérgio Nasser ",
             "type" : "street",
             "lines" : ["0103","0121","0164"]
         },
@@ -2331,17 +2331,17 @@
             "lines" : []
         },
         "0231" : {
-            "name" : "Rua ServidÃo",
+            "name" : "Rua Servidão",
             "type" : "street",
             "lines" : []
         },
         "0341" : {
-            "name" : "Rua Sete De Setembro",
+            "name" : "Rua Sete de Setembro",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
         "944 " : {
-            "name" : "Rua Soldado Benoni FalcÃo GouvÊa",
+            "name" : "Rua Soldado Benoni Falcão Gouvêa",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
@@ -2386,7 +2386,7 @@
             "lines" : ["0105"]
         },
         "0232" : {
-            "name" : "Rua Tenente MÁrio Francisco De Brito",
+            "name" : "Rua Tenente Mário Francisco de Brito",
             "type" : "street",
             "lines" : ["0103","0105","0201","0203","0213","0332"]
         },
@@ -2396,17 +2396,17 @@
             "lines" : ["0031","031A"]
         },
         "408 " : {
-            "name" : "Rua TeÓfilo Costa",
+            "name" : "Rua Teófilo Costa",
             "type" : "street",
             "lines" : ["0103","0121","0164","0310"]
         },
         "506 " : {
-            "name" : "Rua Treze De Maio",
+            "name" : "Rua Treze de Maio",
             "type" : "street",
             "lines" : []
         },
         "533 " : {
-            "name" : "Rua TubarÃo",
+            "name" : "Rua Tubarão",
             "type" : "street",
             "lines" : []
         },
@@ -2431,12 +2431,12 @@
             "lines" : ["0101"]
         },
         "0182" : {
-            "name" : "Rua Vinte E TrÊs De Maio",
+            "name" : "Rua Vinte e Três de Maio",
             "type" : "street",
             "lines" : ["0031","0101","0102","0103","0104","0110","0111","0112","0121","0122","0123","0151","0163","0181","0182","0201","0203","0241","0290","031A"]
         },
         "531 " : {
-            "name" : "Rua Vitalino Dos Santos Valadares",
+            "name" : "Rua Vitalino dos Santos Valadares",
             "type" : "street",
             "lines" : ["0101"]
         },
@@ -2446,7 +2446,7 @@
             "lines" : ["0031","031A"]
         },
         "0230" : {
-            "name" : "Rua VitÓrio Nunes Da Motta",
+            "name" : "Rua Vitório Nunes da Motta",
             "type" : "street",
             "lines" : []
         },
@@ -2466,142 +2466,142 @@
             "lines" : ["0111"]
         },
         "0259" : {
-            "name" : "Rua ZermÍnio Oliveira",
+            "name" : "Rua Zermínio Oliveira",
             "type" : "street",
             "lines" : ["0010"]
         },
         "683 " : {
-            "name" : "PraÇa AmÉrico Poli Monjardim",
+            "name" : "Praça Américo Poli Monjardim",
             "type" : "square",
             "lines" : []
         },
         "0211" : {
-            "name" : "PraÇa AnÍbal Anthero Martins",
+            "name" : "Praça Aníbal Anthero Martins",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","302E"]
         },
         "0183" : {
-            "name" : "PraÇa AntÔnio Ferreira Marques",
+            "name" : "Praça Antônio Ferreira Marques",
             "type" : "square",
             "lines" : ["0102","0103","0123","0182","0201","0202"]
         },
         "0195" : {
-            "name" : "PraÇa AntÔnio Trajano Santos",
+            "name" : "Praça Antônio Trajano Santos",
             "type" : "square",
             "lines" : ["0182"]
         },
         "653 " : {
-            "name" : "PraÇa AristÓbulo InocÊncio Ferreira",
+            "name" : "Praça Aristóbulo Inocêncio Ferreira",
             "type" : "square",
             "lines" : ["0123"]
         },
         "0251" : {
-            "name" : "PraÇa Benedito Rodrigues Cruz",
+            "name" : "Praça Benedito Rodrigues Cruz",
             "type" : "square",
             "lines" : ["0213"]
         },
         "101 " : {
-            "name" : "PraÇa Caetano Bassani",
+            "name" : "Praça Caetano Bassani",
             "type" : "square",
             "lines" : []
         },
         "624 " : {
-            "name" : "PraÇa Caetano Bassini",
+            "name" : "Praça Caetano Bassini",
             "type" : "square",
             "lines" : ["0051","0052","0104","0123","0201"]
         },
         "812 " : {
-            "name" : "PraÇa Coronel Francisco P. Do Nascimento",
+            "name" : "Praça Coronel Francisco P. do Nascimento",
             "type" : "square",
             "lines" : ["0112"]
         },
         "0334" : {
-            "name" : "PraÇa Costa Pereira",
+            "name" : "Praça Costa Pereira",
             "type" : "square",
             "lines" : ["0125","0202"]
         },
         "0221" : {
-            "name" : "PraÇa CristÓvÃo Jacques",
+            "name" : "Praça Cristóvão Jacques",
             "type" : "square",
             "lines" : ["0201"]
         },
         "628 " : {
-            "name" : "PraÇa Da Av. Beira Mar",
+            "name" : "Praça da Av. Beira Mar",
             "type" : "square",
             "lines" : []
         },
         "817 " : {
-            "name" : "PraÇa Da Bandeira",
+            "name" : "Praça da Bandeira",
             "type" : "square",
             "lines" : ["0302"]
         },
         "602 " : {
-            "name" : "PraÇa De Goiabeiras",
+            "name" : "Praça de Goiabeiras",
             "type" : "square",
             "lines" : []
         },
         "0293" : {
-            "name" : "PraÇa Do Aeroporto",
+            "name" : "Praça do Aeroporto",
             "type" : "square",
             "lines" : ["0122","0163","0212"]
         },
         "525 " : {
-            "name" : "PraÇa Dos Desejos",
+            "name" : "Praça dos Desejos",
             "type" : "square",
             "lines" : []
         },
         "809 " : {
-            "name" : "PraÇa Dr.carlito L. Von Schilgen",
+            "name" : "Praça Dr. Carlito L. Von Schilgen",
             "type" : "square",
             "lines" : ["0105"]
         },
         "0012" : {
-            "name" : "PraÇa Flavio MÁrio Faustini",
+            "name" : "Praça Flavio Mário Faustini",
             "type" : "square",
             "lines" : []
         },
         "0290" : {
-            "name" : "PraÇa Francisco P Nascimento",
+            "name" : "Praça Francisco P Nascimento",
             "type" : "square",
             "lines" : ["0210","0212","0214"]
         },
         "0126" : {
-            "name" : "PraÇa Gilberto MendonÇa Paiva",
+            "name" : "Praça Gilberto Mendonça Paiva",
             "type" : "square",
             "lines" : []
         },
         "187 " : {
-            "name" : "PraÇa IrmÃ Josepha Hosanah",
+            "name" : "Praça Irmã Josepha Hosanah",
             "type" : "square",
             "lines" : ["0202"]
         },
         "0387" : {
-            "name" : "PraÇa Misael Pena",
+            "name" : "Praça Misael Pena",
             "type" : "square",
             "lines" : ["0111"]
         },
         "0207" : {
-            "name" : "PraÇa Philogomiro Lannes",
+            "name" : "Praça Philogomiro Lannes",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","0310","302E"]
         },
         "0205" : {
-            "name" : "PraÇa Regina Frigeri Furno",
+            "name" : "Praça Regina Frigeri Furno",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","0310","302E"]
         },
         "578 " : {
-            "name" : "PraÇa Ubaldo Remalhete Maia",
+            "name" : "Praça Ubaldo Remalhete Maia",
             "type" : "square",
             "lines" : ["0202"]
         },
         "0215" : {
-            "name" : "PraÇa Vicente Guida",
+            "name" : "Praça Vicente Guida",
             "type" : "square",
             "lines" : ["0160","0163","0171","0175","0181","0184"]
         },
         "0254" : {
-            "name" : "PraÇa Wolghano Netto",
+            "name" : "Praça Wolghano Netto",
             "type" : "square",
             "lines" : ["0302","0310","302E"]
         },
@@ -2611,12 +2611,12 @@
             "lines" : []
         },
         "2467" : {
-            "name" : "Faesa Campus Ii",
+            "name" : "Faesa Campus II",
             "type" : "other",
             "lines" : ["302E"]
         },
         "4789" : {
-            "name" : "Ladeira Doutor Bezerra De Menezes",
+            "name" : "Ladeira Doutor Bezerra de Menezes",
             "type" : "other",
             "lines" : ["0010"]
         },
@@ -2626,7 +2626,7 @@
             "lines" : ["0102"]
         },
         "904 " : {
-            "name" : "Ladeira SÃo Bento",
+            "name" : "Ladeira São Bento",
             "type" : "other",
             "lines" : ["0125","0202"]
         },
@@ -2636,7 +2636,7 @@
             "lines" : []
         },
         "8993" : {
-            "name" : "PÇa Coronel Franc. Pereira Do Nasc.",
+            "name" : "Pça Coronel Franc. Pereira do Nasc.",
             "type" : "other",
             "lines" : []
         },
@@ -2646,7 +2646,7 @@
             "lines" : []
         },
         "0024" : {
-            "name" : "Ponte Da Passagem",
+            "name" : "Ponte da Passagem",
             "type" : "other",
             "lines" : []
         },
@@ -2656,7 +2656,7 @@
             "lines" : []
         },
         "26  " : {
-            "name" : "Ponte Florentino Avidos (ponte Seca)",
+            "name" : "Ponte Florentino Avidos (Pponte Seca)",
             "type" : "other",
             "lines" : ["0103"]
         },
@@ -2671,7 +2671,7 @@
             "lines" : []
         },
         "0111" : {
-            "name" : "Ponte Pref. Ceciliano Abel De Almeida",
+            "name" : "Ponte Pref. Ceciliano Abel de Almeida",
             "type" : "other",
             "lines" : []
         },
@@ -2686,7 +2686,7 @@
             "lines" : ["0010","0051","0052","0071","0072","0074","0110","0124","0130","0171","0175","0181","0182","0211","0212","0213","0290","0302","0303","0310","0331","0332","0333","0370","302E","333E"]
         },
         "0133" : {
-            "name" : "RodoviÁria",
+            "name" : "Rodoviária",
             "type" : "other",
             "lines" : ["0031","0101"]
         },
@@ -2696,17 +2696,17 @@
             "lines" : []
         },
         "630 " : {
-            "name" : "Trevo Da Faesa",
+            "name" : "Trevo da Faesa",
             "type" : "other",
             "lines" : ["0310"]
         },
         "0163" : {
-            "name" : "Trevo Da RodoviÁria",
+            "name" : "Trevo da Rodoviária",
             "type" : "other",
             "lines" : []
         },
         "538 " : {
-            "name" : "Trevo De Goiabeiras",
+            "name" : "Trevo de Goiabeiras",
             "type" : "other",
             "lines" : []
         },
@@ -2716,7 +2716,7 @@
             "lines" : ["0214"]
         },
         "574 " : {
-            "name" : "Viaduto Da Ufes",
+            "name" : "Viaduto da Ufes",
             "type" : "other",
             "lines" : ["0074","0331","0332","0333"]
         },
