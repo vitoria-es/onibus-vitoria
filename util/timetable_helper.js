@@ -1,7 +1,7 @@
 /**
  * Utilitário de tabelas de frequência de ônibus
  * 
- * O código abaixo ajud a extrair os horários das tabelas de frequência
+ * O código abaixo ajuda a extrair os horários das tabelas de frequência
  * do site da Prefeitura Municipal de Vitória (PMV).
  * 
  * URL de exemplo: http://sistemas.vitoria.es.gov.br/redeiti/listarHorario.cfm?cdLinha=0211
