@@ -577,19 +577,14 @@ define('URL', 'http://sistemas.vitoria.es.gov.br/redeiti/listarLinhas.cfm?cdVia=
 /**
  * Extrai as informações de cada endereço requisitado
  * @param  string $code Código do endereço
- * @return array        Nome e linhas do endereço
+ * @return array        Linhas que passam no endereço endereço
  */
-function get_address($code) {
+
+function get_lines($code) {
     // define o tempo máximo para processar cada endereço
     set_time_limit(30);
-
+    // faz a requisição do arquivo HTML
     $html = file_get_html(URL . $code);
-
-    // trata o nome do endereço
-    $addressName = $html->find('.main h4', 0)->plaintext;
-    $addressName = str_replace('Linhas que passam por: ', '', $addressName);
-    $addressName = ucwords(strtolower($addressName));
-
     // extra os números das linhas
     $lines = array();
     $links = $html->find('.main a[href^=listar]');
@@ -597,22 +592,7 @@ function get_address($code) {
         $code = substr($line->plaintext, 0, 4);        
         $lines[] = $code;
     }
-
-    $address = array($addressName, $lines);
-    return $address;
-}
-
-/**
- * Extrai os códigos de endereço a partir da uma lista
- * @param  array $addressList Lista de endereços
- * @return array              Lista dos códigos
- */
-function get_codes($addressList) {
-    $addressCodes = array();
-    foreach ($addressList as $address) {
-        $addressCodes[] = $address[1];
-    }
-    return $addressCodes;
+    return $lines;
 }
 
 /**
@@ -622,25 +602,18 @@ function get_codes($addressList) {
  * @param  string $type       Tipo do endereço
  * @return undefined
  */
+
 function parse_lines_from_list($addressList, $type) {
     echo "\"data\" : {";
-
-    // pega os códigos dos endereços
-    $addressCodes = get_codes($addressList); 
-
-    foreach ($addressCodes as $code) {
-        // pega as informações do endereço
-        $address = get_address($code);
-
+    foreach ($addressList as $address) {
         $name = $address[0];
-        $lines = $address[1];
-
+        $code = $address[1];
+        // pega as informações do endereço
+        $lines = get_lines($address[1]);
         // re-ordena as linhas
         sort($lines);
-
-        // transforma de PHP para JSON
+        // transforma de array PHP para JSON
         $lines = json_encode($lines);
-        
         // monta as propriedades de cada linha
         echo "
         \"${code}\" : {
