@@ -951,12 +951,12 @@
             "lines" : ["0110","0124","0130","0164","0184","0214","0303","0310"]
         },
         "619 " : {
-            "name" : "R. das Oliveiras",
+            "name" : "Rua das Oliveiras",
             "type" : "street",
             "lines" : ["0181"]
         },
         "0139" : {
-            "name" : "R. das Palmeiras",
+            "name" : "Rua das Palmeiras",
             "type" : "street",
             "lines" : ["0031","0051","0052","0125","0172","031A","073S"]
         },
@@ -1066,42 +1066,42 @@
             "lines" : []
         },
         "670 " : {
-            "name" : "R. Doutor Agliberto Rodrigues Moreira",
+            "name" : "R. Dr. Agliberto Rodrigues Moreira",
             "type" : "street",
             "lines" : ["0122","0212"]
         },
         "0194" : {
-            "name" : "R. Doutor Aloísio Menezes",
+            "name" : "R. Dr. Aloísio Menezes",
             "type" : "street",
             "lines" : ["0074","0182","0204","073N","073S"]
         },
         "0110" : {
-            "name" : "R. Doutor Américo de Oliveira",
+            "name" : "R. Dr. Américo de Oliveira",
             "type" : "street",
             "lines" : ["0051","0052"]
         },
         "0164" : {
-            "name" : "R. Doutor Arlindo Sodré",
+            "name" : "R. Dr. Arlindo Sodré",
             "type" : "street",
             "lines" : []
         },
         "709 " : {
-            "name" : "R. Doutor Eurico de Aguiar",
+            "name" : "R. Dr. Eurico de Aguiar",
             "type" : "street",
             "lines" : ["0031","0103","0105","0201","031A","0331","0332","073N"]
         },
         "0046" : {
-            "name" : "R. Doutor Ivan Ramos de Medeiros",
+            "name" : "R. Dr. Ivan Ramos de Medeiros",
             "type" : "street",
             "lines" : ["0051","0052","0104","0123","0201"]
         },
         "0351" : {
-            "name" : "R. Doutor José Benjamin Costa",
+            "name" : "R. Dr. José Benjamin Costa",
             "type" : "street",
             "lines" : ["0125","0202"]
         },
         "0349" : {
-            "name" : "R. Doutor Thompson",
+            "name" : "R. Dr. Thompson",
             "type" : "street",
             "lines" : []
         },
@@ -1166,22 +1166,22 @@
             "lines" : ["0104"]
         },
         "672 " : {
-            "name" : "R. Engenheiro César Dantas ",
+            "name" : "R. Eng. César Dantas ",
             "type" : "street",
             "lines" : []
         },
         "660 " : {
-            "name" : "R. Engenheiro Fábio Ruschi ",
+            "name" : "R. Eng. Fábio Ruschi ",
             "type" : "street",
             "lines" : ["0370"]
         },
         "0001" : {
-            "name" : "R. Engenheiro Manoel dos Passos Barros",
+            "name" : "R. Eng. Manoel dos Passos Barros",
             "type" : "street",
             "lines" : ["0103","0110","0121","0161","0241","0290"]
         },
         "0169" : {
-            "name" : "R. Engenheiro Rubens Bley",
+            "name" : "R. Eng. Rubens Bley",
             "type" : "street",
             "lines" : ["0074","0172","073N"]
         },
@@ -2031,62 +2031,62 @@
             "lines" : []
         },
         "511 " : {
-            "name" : "R. Prof Arnoud Cabral",
+            "name" : "R. Prof. Arnoud Cabral",
             "type" : "street",
             "lines" : []
         },
         "505 " : {
-            "name" : "R. Prof Baltazar",
+            "name" : "R. Prof. Baltazar",
             "type" : "street",
             "lines" : []
         },
         "0286" : {
-            "name" : "R. Prof Doralice Oliveira Neves",
+            "name" : "R. Prof. Doralice Oliveira Neves",
             "type" : "street",
             "lines" : ["0112","0163"]
         },
         "0283" : {
-            "name" : "R. Prof Fernando Duarte Rabelo",
+            "name" : "R. Prof. Fernando Duarte Rabelo",
             "type" : "street",
             "lines" : ["0163","0212"]
         },
         "0013" : {
-            "name" : "R. Prof Feu Rosa",
+            "name" : "R. Prof. Feu Rosa",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
         "0189" : {
-            "name" : "R. Prof Heráclito Pereira",
+            "name" : "R. Prof. Heráclito Pereira",
             "type" : "street",
             "lines" : ["0102","0123","0201"]
         },
         "0292" : {
-            "name" : "R. Prof Isaura Marques Silva",
+            "name" : "R. Prof. Isaura Marques Silva",
             "type" : "street",
             "lines" : []
         },
         "0300" : {
-            "name" : "R. Prof Maria Estela de Novaes",
+            "name" : "R. Prof. Maria Estela de Novaes",
             "type" : "street",
             "lines" : []
         },
         "535 " : {
-            "name" : "R. Prof Maria Penha C Rocha",
+            "name" : "R. Prof. Maria Penha C. Rocha",
             "type" : "street",
             "lines" : []
         },
         "0287" : {
-            "name" : "R. Prof Mario F Borges",
+            "name" : "R. Prof. Mario F. Borges",
             "type" : "street",
             "lines" : ["0112"]
         },
         "957 " : {
-            "name" : "R. Prof O. Drumond de Carvalho",
+            "name" : "R. Prof. O. Drumond de Carvalho",
             "type" : "street",
             "lines" : []
         },
         "0285" : {
-            "name" : "R. Prof Renato Ribeiro Santos",
+            "name" : "R. Prof. Renato Ribeiro Santos",
             "type" : "street",
             "lines" : ["0112","0163"]
         },
@@ -2096,37 +2096,37 @@
             "lines" : ["0112","0122","0163","0212","0303"]
         },
         "663 " : {
-            "name" : "R. Professor José Nunes",
+            "name" : "R. Prof. José Nunes",
             "type" : "street",
             "lines" : ["0104"]
         },
         "700 " : {
-            "name" : "R. Professor Mauro Fontoura Borges",
+            "name" : "R. Prof. Mauro Fontoura Borges",
             "type" : "street",
             "lines" : ["0112","0163"]
         },
         "665 " : {
-            "name" : "R. Professora Gladys Bernardo Lucas",
+            "name" : "R. Profa. Gladys Bernardo Lucas",
             "type" : "street",
             "lines" : ["0104"]
         },
         "625 " : {
-            "name" : "R. Professora Maria Occiolina Pereira",
+            "name" : "R. Profa. Maria Occiolina Pereira",
             "type" : "street",
             "lines" : ["0105"]
         },
         "668 " : {
-            "name" : "R. Professora Odila SimÕes",
+            "name" : "R. Profa. Odila SimÕes",
             "type" : "street",
             "lines" : []
         },
         "0403" : {
-            "name" : "R. Professora Zilda Andrade",
+            "name" : "R. Profa. Zilda Andrade",
             "type" : "street",
             "lines" : []
         },
         "616 " : {
-            "name" : "R. Projetada",
+            "name" : "Rua Projetada",
             "type" : "street",
             "lines" : []
         },
@@ -2381,7 +2381,7 @@
             "lines" : ["0175","0303","0370"]
         },
         "0390" : {
-            "name" : "R. Tenente Mario F Borges",
+            "name" : "R. Tenente Mario F. Borges",
             "type" : "street",
             "lines" : ["0105"]
         },
@@ -2471,137 +2471,137 @@
             "lines" : ["0010"]
         },
         "683 " : {
-            "name" : "Praça Américo Poli Monjardim",
+            "name" : "Pç. Américo Poli Monjardim",
             "type" : "square",
             "lines" : []
         },
         "0211" : {
-            "name" : "Praça Aníbal Anthero Martins",
+            "name" : "Pç. Aníbal Anthero Martins",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","302E"]
         },
         "0183" : {
-            "name" : "Praça Antônio Ferreira Marques",
+            "name" : "Pç. Antônio Ferreira Marques",
             "type" : "square",
             "lines" : ["0102","0103","0123","0182","0201","0202"]
         },
         "0195" : {
-            "name" : "Praça Antônio Trajano Santos",
+            "name" : "Pç. Antônio Trajano Santos",
             "type" : "square",
             "lines" : ["0182"]
         },
         "653 " : {
-            "name" : "Praça Aristóbulo Inocêncio Ferreira",
+            "name" : "Pç. Aristóbulo Inocêncio Ferreira",
             "type" : "square",
             "lines" : ["0123"]
         },
         "0251" : {
-            "name" : "Praça Benedito Rodrigues Cruz",
+            "name" : "Pç. Benedito Rodrigues Cruz",
             "type" : "square",
             "lines" : ["0213"]
         },
         "101 " : {
-            "name" : "Praça Caetano Bassani",
+            "name" : "Pç. Caetano Bassani",
             "type" : "square",
             "lines" : []
         },
         "624 " : {
-            "name" : "Praça Caetano Bassini",
+            "name" : "Pç. Caetano Bassini",
             "type" : "square",
             "lines" : ["0051","0052","0104","0123","0201"]
         },
         "812 " : {
-            "name" : "Praça Coronel Francisco P. do Nascimento",
+            "name" : "Pç. Coronel Francisco P. do Nascimento",
             "type" : "square",
             "lines" : ["0112"]
         },
         "0334" : {
-            "name" : "Praça Costa Pereira",
+            "name" : "Pç. Costa Pereira",
             "type" : "square",
             "lines" : ["0125","0202"]
         },
         "0221" : {
-            "name" : "Praça Cristóvão Jacques",
+            "name" : "Pç. Cristóvão Jacques",
             "type" : "square",
             "lines" : ["0201"]
         },
         "628 " : {
-            "name" : "Praça da Av. Beira Mar",
+            "name" : "Pç. da Av. Beira Mar",
             "type" : "square",
             "lines" : []
         },
         "817 " : {
-            "name" : "Praça da Bandeira",
+            "name" : "Pç. da Bandeira",
             "type" : "square",
             "lines" : ["0302"]
         },
         "602 " : {
-            "name" : "Praça de Goiabeiras",
+            "name" : "Pç. de Goiabeiras",
             "type" : "square",
             "lines" : []
         },
         "0293" : {
-            "name" : "Praça do Aeroporto",
+            "name" : "Pç. do Aeroporto",
             "type" : "square",
             "lines" : ["0122","0163","0212"]
         },
         "525 " : {
-            "name" : "Praça dos Desejos",
+            "name" : "Pç. dos Desejos",
             "type" : "square",
             "lines" : []
         },
         "809 " : {
-            "name" : "Praça Dr. Carlito L. Von Schilgen",
+            "name" : "Pç. Dr. Carlito L. Von Schilgen",
             "type" : "square",
             "lines" : ["0105"]
         },
         "0012" : {
-            "name" : "Praça Flavio Mário Faustini",
+            "name" : "Pç. Flavio Mário Faustini",
             "type" : "square",
             "lines" : []
         },
         "0290" : {
-            "name" : "Praça Francisco P Nascimento",
+            "name" : "Pç. Francisco P. Nascimento",
             "type" : "square",
             "lines" : ["0210","0212","0214"]
         },
         "0126" : {
-            "name" : "Praça Gilberto Mendonça Paiva",
+            "name" : "Pç. Gilberto Mendonça Paiva",
             "type" : "square",
             "lines" : []
         },
         "187 " : {
-            "name" : "Praça Irmã Josepha Hosanah",
+            "name" : "Pç. Irmã Josepha Hosanah",
             "type" : "square",
             "lines" : ["0202"]
         },
         "0387" : {
-            "name" : "Praça Misael Pena",
+            "name" : "Pç. Misael Pena",
             "type" : "square",
             "lines" : ["0111"]
         },
         "0207" : {
-            "name" : "Praça Philogomiro Lannes",
+            "name" : "Pç. Philogomiro Lannes",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","0310","302E"]
         },
         "0205" : {
-            "name" : "Praça Regina Frigeri Furno",
+            "name" : "Pç. Regina Frigeri Furno",
             "type" : "square",
             "lines" : ["0124","0184","0213","0214","0290","0302","0310","302E"]
         },
         "578 " : {
-            "name" : "Praça Ubaldo Remalhete Maia",
+            "name" : "Pç. Ubaldo Remalhete Maia",
             "type" : "square",
             "lines" : ["0202"]
         },
         "0215" : {
-            "name" : "Praça Vicente Guida",
+            "name" : "Pç. Vicente Guida",
             "type" : "square",
             "lines" : ["0160","0163","0171","0175","0181","0184"]
         },
         "0254" : {
-            "name" : "Praça Wolghano Netto",
+            "name" : "Pç. Wolghano Netto",
             "type" : "square",
             "lines" : ["0302","0310","302E"]
         },
@@ -2636,7 +2636,7 @@
             "lines" : []
         },
         "8993" : {
-            "name" : "Pça Coronel Franc. Pereira do Nasc.",
+            "name" : "Pç. Coronel Franc. Pereira do Nasc.",
             "type" : "other",
             "lines" : []
         },
@@ -2676,12 +2676,12 @@
             "lines" : []
         },
         "611 " : {
-            "name" : "Rodovia Norte Sul",
+            "name" : "Rod. Norte Sul",
             "type" : "other",
             "lines" : []
         },
         "0130" : {
-            "name" : "Rodovia Serafim Derenzi",
+            "name" : "Rod. Serafim Derenzi",
             "type" : "other",
             "lines" : ["0010","0051","0052","0071","0072","0074","0110","0124","0130","0171","0175","0181","0182","0211","0212","0213","0290","0302","0303","0310","0331","0332","0333","0370","302E","333E"]
         },
@@ -2696,17 +2696,17 @@
             "lines" : []
         },
         "630 " : {
-            "name" : "Trevo da Faesa",
+            "name" : "Trv. da Faesa",
             "type" : "other",
             "lines" : ["0310"]
         },
         "0163" : {
-            "name" : "Trevo da Rodoviária",
+            "name" : "Trv. da Rodoviária",
             "type" : "other",
             "lines" : []
         },
         "538 " : {
-            "name" : "Trevo de Goiabeiras",
+            "name" : "Trv. de Goiabeiras",
             "type" : "other",
             "lines" : []
         },
@@ -2716,12 +2716,12 @@
             "lines" : ["0214"]
         },
         "574 " : {
-            "name" : "Viaduto da Ufes",
+            "name" : "Vd. da Ufes",
             "type" : "other",
             "lines" : ["0074","0331","0332","0333"]
         },
         "813 " : {
-            "name" : "Viaduto Gilson Felix",
+            "name" : "Vd. Gilson Felix",
             "type" : "other",
             "lines" : ["0103","0121","0123","0160","0161","0164","0171","0172","0173","0175","0184","0202","0204","0210","0241","031A","0370"]
         }
