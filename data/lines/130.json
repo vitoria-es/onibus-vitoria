@@ -1,0 +1,25 @@
+{
+    "0130" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Resistência / Jardim da Penha (Noturno)",
+        "via"        : null,
+        "service"    : "night_owl",
+        "trips" : [
+            {
+                "headsign" : "130 Resistência",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "130 Jardim da Penha",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : ["01:00", "02:20", "03:40", "23:35"],
+            "saturday"  : ["01:00", "02:20", "03:40", "23:35"],
+            "sunday"    : ["01:00", "02:20", "03:40", "23:35"]
+        },
+    }
+}
