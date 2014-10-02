@@ -10,3 +10,6 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+# Sublime Text files
+*.sublime-workspace
