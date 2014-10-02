@@ -1,0 +1,25 @@
+{
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Santo André / Curva da Jurema via Reta da Penha (Férias)",
+        "via"        : "Reta da Penha",
+        "service"    : "vacation",
+        "trips" : [
+            {
+                "headsign" : "300 Santo André",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "300 Curva da Jurema",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : [],
+            "saturday"  : ["10:27", "11:34", "12:45", "13:40"],
+            "sunday"    : ["10:09", "10:43", "11:17", "11:51", "12:19", "13:03", "13:25", "14:09"]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Jardim Camburi / Rodoviária (Noturno)",
+        "via"        : null,
+        "service"    : "night_owl",
+        "trips" : [
+            {
+                "headsign" : "160 Jardim Camburi",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "160 Rodoviária",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : ["00:01", "01:15", "03:00", "03:55"],
+            "saturday"  : ["00:01", "01:15", "03:00", "03:55"],
+            "sunday"    : ["00:01", "01:15", "03:00", "03:55"]
+        }
+    }
+}

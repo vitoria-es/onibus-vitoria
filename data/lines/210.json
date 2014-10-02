@@ -1,0 +1,26 @@
+{
+
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Goiabeiras / Rodoviária (Noturno)",
+        "via"        : null,
+        "service"    : "night_owl",
+        "trips" : [
+            {
+                "headsign" : "210 Goiabeiras",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "210 Rodoviária",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : ["00:00", "01:00", "02:00", "03:00"],
+            "saturday"  : ["00:00", "01:00", "02:00", "03:00"],
+            "sunday"    : ["00:00", "01:00", "02:00", "03:00"]
+        }
+    }
+}

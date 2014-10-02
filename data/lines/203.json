@@ -1,0 +1,27 @@
+{
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Santa Clara / Ilha do Boi via Parque Moscoso",
+        "via"        : "Parque Moscoso",
+        "type"       : "regular",
+        "trips" : [
+            {
+                "headsign" : "203 Santa Clara",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "203 Ilha do Boi",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : ["06:05", "06:45", "07:20", "08:00", "08:50", "10:10", "11:00", "11:30", "12:10", "12:40",
+                           "13:20", "13:50", "14:30", "15:05", "15:45", "16:25", "17:05", "17:40", "18:20", "19:00",
+                           "20:25", "21:05"],
+            "saturday"  : [],
+            "sunday"    : []
+        }
+    }
+}

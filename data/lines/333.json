@@ -1,0 +1,27 @@
+{
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "full_name"  : "Ilha das Caieiras / Praia do Suá via Jucutuquara",
+        "via"        : "Jucutuquara",
+        "service"    : "regular",
+        "trips" : [
+            {
+                "headsign" : "333 Ilha das Caieiras",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "333 Praia do Suá",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : ["05:55", "06:21", "06:46", "07:12", "07:37", "08:03", "08:30", "09:05", "09:46", "10:26",
+                           "11:07", "11:43", "12:19", "12:55", "13:37", "14:22", "15:07", "15:52", "16:34", "17:08",
+                           "17:35", "18:01", "18:27", "18:55", "19:29", "20:10", "20:55", "21:40"],
+            "saturday"  : [],
+            "sunday"    : []
+        }
+    }
+}

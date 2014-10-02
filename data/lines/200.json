@@ -1,0 +1,26 @@
+{
+    "data" : {
+        "updated_on" : "2014-10-02",
+        "name"       : "Santo André / Curva da Jurema via Beira Mar (Férias)",
+        "via"        : "Beira Mar",
+        "service"    : "vacation",
+        "trips" : [
+            {
+                "headsign" : "200 Santo André",
+                "shape_id" : null,
+                "route"  : []
+            },
+            {
+                "headsign" : "200 Curva da Jurema",
+                "shape_id" : null,
+                "route"  : []
+            }
+        ],
+        "timetable" : {
+            "weekdays"  : [],
+            "saturday"  : ["10:17", "11:13", "12:09", "13:05", "14:39", "15:42", "16:29", "17:24"],
+            "sunday"    : ["10:08", "10:37", "11:12", "11:48", "12:22", "12:57", "13:32", "15:10", "15:33", "16:19",
+                           "16:50", "17:23", "17:58"]
+        }
+    }
+}
