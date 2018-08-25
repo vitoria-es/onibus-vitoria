@@ -16,8 +16,8 @@ formas de exibir o conteúdo utilizando formatos padrões como
 ## Como contribuir
 
 Você pode ajudar esse projeto corrigindo informações, informando bugs, criando
-documentação, divulgando, desenolvendo uma API, sugerindo novas ideias, entre
-outras mais. Alguns exemplos:
+documentação, divulgando, desenvolvendo uma API, sugerindo novas ideias, entre
+outras coisas mais. Alguns exemplos:
 
 - Pesquisar e atualizar horários, linhas, pontos e etc
 - Mapear os trajetos das linhas de ônibus
